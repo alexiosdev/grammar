@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Tina gave me _____ book for my birthday.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "1",
+      "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "I read ____ book Tina gave me while I was on holiday.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "3",
+      "explain": "- the book Tina gave me (it is clear in the situation)",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Sally lives in _____ big house in the country.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "1",
+      "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Brian's house is over there. It's _____ big one with lots of plants in the front garden.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "3",
+      "explain": "- the big one with lots of plants (It is clear in the situation)",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Excuse me. Is there _____ Post Office near here?",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "1",
+      "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Can you tell me where _____ nearest Post Office is, please?",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "3",
+      "explain": "- Remember: the + superlative form",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Christine and Gerald saw _____ horror film last night.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "1",
+      "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Tina went to the cinema on Friday night. She enjoyed _____ film, but thought it was too long.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "3",
+      "explain": "- the film (that Tina saw, it is clear in the situation)",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "I have to go to _____ bank this afternoon to pay in a cheque.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "3",
+      "explain": "- Remember: go to the bank but go to school",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    },
+    {
+      "question": "Ben lives in Manchester but twice _____ week he has to work in London.",
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "-",
+      "answer": "1",
+      "explain": "- We use: once, twice, etc ... + a week",
+      "category": "1",
+      "subcategorylv1": "1",
+      "subcategorylv2": "1"
+    }
+  ]
+}

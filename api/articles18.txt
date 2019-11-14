@@ -1,0 +1,124 @@
+{
+ "data": [
+        {
+            "question": " Did Sylvia fly across the Caspian Sea? \" No, she crossed both ways by ___.\"",
+            "a": "a ship",
+            "b": "the ship",
+            "c": "ships",
+            "d": "ship",
+            "answer": "4",
+            "explain": "\n- Do not use article in certain phrases made up of a preposition + noun:  on foot, at school, from top to bottom, at home, in bed, by train, by car, in debt, in hand, on earth, at noon, on board, in jest, at best, at worst etc\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "The chance to enter ___ came and she took it.",
+            "a": "college",
+            "b": "for college",
+            "c": "in college",
+            "d": "to college",
+            "answer": "3",
+            "explain": "\n- Enter in/into\n- - Do not use article in certain phrases made up of a preposition + noun:  on foot, at school, from top to bottom, at home, in bed, by train, by car, in debt, in hand, on earth, at noon, on board, in jest, at best, at worst etc\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "None but _________ deserve the fair.",
+            "a": "brave",
+            "b": "a brave",
+            "c": "braves",
+            "d": "the brave",
+            "answer": "4",
+            "explain": "\n- The: \t used before an adjective to make it into a plural noun when you are referring to all the people that the adjective describes",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "Adventure allows ___ to happen to us.",
+            "a": "the unexpected",
+            "b": "a unexpected",
+            "c": "an unexpected",
+            "d": "unexpected",
+            "answer": "1",
+            "explain": "\n- The: \t used before an adjective to make it into a noun when you are referring to the particular kind of situation or thing that the adjective describes",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "Will you pass me _________, please?",
+            "a": "salt",
+            "b": "the salt",
+            "c": "a salt",
+            "d": "salts",
+            "answer": "2",
+            "explain": "\n- The: used to show that you are talking about a particular thing or person that has already been mentioned, is already known about, or is the only one",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "He caught me ___.",
+            "a": "by my hand",
+            "b": "in my hand",
+            "c": "by the hand",
+            "d": "in the hand",
+            "answer": "3",
+            "explain": "\n- Take/catch somebody by the hand (=hold someone's hand in order to take them somewhere)",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "I patted him ___.",
+            "a": "by the back",
+            "b": "on the back",
+            "c": "in the back",
+            "d": "of the back",
+            "answer": "2",
+            "explain": "\n- On the back: the part of something that is furthest from the front ",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "She looked him ___.",
+            "a": "by the eye",
+            "b": "on the eye",
+            "c": "in the eye",
+            "d": "to the eye",
+            "answer": "3",
+            "explain": "\n- Look somebody in the eye:  to look directly at someone when you are speaking to them, especially to show that you are not afraid of them or that you are telling the truth",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "He had ___ to show me the way to the station.",
+            "a": "kindness",
+            "b": "a kindness",
+            "c": "a kind",
+            "d": "the kindness",
+            "answer": "4",
+            "explain": "\n- Have the kindness to do something",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        },
+        {
+            "question": "She plays _________ very well.",
+            "a": "the piano",
+            "b": "a piano",
+            "c": "on piano",
+            "d": "pianos",
+            "answer": "1",
+            "explain": "\n- The: \t used to say which type of musical instrument someone plays",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "18"
+        }
+    ] 
+}

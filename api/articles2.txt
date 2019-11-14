@@ -1,0 +1,124 @@
+{
+  "data": [
+        {
+            "question": "Everyone who works in this department uses ___ computer.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "1",
+            "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Can you repair _____ computer in Liam's office? It's not working.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- the computer in Liam's office (It is clear in the situation)",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Excuse me. Is there _____ bank near here?",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "1",
+            "explain": "- a (n) + countable nouns\n- we use \"a\" before words that begin with consonants",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Please don't stand in front of me. I can't see _____ television.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- the television (it is clear in the situation)",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Helen had eggs and bacon for _____ breakfast so she wasn't very hungry at lunchtime.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "4",
+            "explain": "- We use: have something for breakfast",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "When Nigel was promoted at work he moved to a bigger office at _____ end of the corridor.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- We use: at the end of",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "The train to Liverpool will depart from _____ platform 7 in ten minutes. Will passengers please board the train now.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "4",
+            "explain": "- We use: depart from platform 1, 2, 3, ect ...",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Sarah went to _____ theatre with some friends to see Shakespeare's 'Hamlet'.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- We use: go to the theatre",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Neil likes to listen to _____ radio while he is getting dressed.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- We use: listen to the radio but watch TV",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        },
+        {
+            "question": "Be careful. Radiation from _____ sun can cause skin cancer.",
+            "a": "a",
+            "b": "an",
+            "c": "the",
+            "d": "-",
+            "answer": "3",
+            "explain": "- We use: the sun (only one sun)",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "2"
+        }
+    ]
+}
