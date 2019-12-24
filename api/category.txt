@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Basic Grammar"
+    },
+    {
+      "id": "2",
+      "name": "English Tenses"
+    },
+    {
+      "id": "3",
+      "name": "Advanced Grammar"
+    },
+    {
+      "id": "4",
+      "name": "Commonly Confused Words"
+    }
+  ]
+}

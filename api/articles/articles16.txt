@@ -1,0 +1,124 @@
+{
+ "data": [
+        {
+            "question": "A: Do you like dogs?\nB: ___ are OK, but I don't like ones that are aggressive.",
+            "a": "The dogs",
+            "b": "The dog",
+            "c": "Some dogs",
+            "d": "A dog",
+            "answer": "3",
+            "explain": "- Some: a number of people or things, or an amount of something, when the exact number or amount is not stated\n In this case, speaker implies a group of dogs not all dogs or a specific dog\n ",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "Matthew and Veronica enjoy going to ___. They see a play at least once a month.",
+            "a": "plays",
+            "b": "the plays",
+            "c": "some plays",
+            "d": "a play",
+            "answer": "1",
+            "explain": "Plays= place where play is performed\n \n- Do not use \" the\": with words for institutions such as school, prison, college, university, church when you are talking about them in a general way.",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "A: What shall I do with this old newspaper?\nB: Put it in that ___ over there.",
+            "a": "bag's rubbish",
+            "b": "bag rubbish",
+            "c": "rubbish bag",
+            "d": "a rubbish bag",
+            "answer": "3",
+            "explain": "- Sometimes we use a noun to describe another noun. In that case, the first noun \"acts as\" an adjective\n \n+The \"noun as adjective\" always comes first\n \n+The \"noun as adjective\" is singular\n \n+ Write the \"noun as adjective: two separate words, two hyphenated words, one word\n In this case rubbish bag= a bad used to contain rubbish",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ is a very old political system.",
+            "a": "Democracy",
+            "b": "A democracy",
+            "c": "The democracy",
+            "d": "Such a democracy",
+            "answer": "1",
+            "explain": "\n- Do not use article before a common noun used in its commonest sense",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ of West Germany visited America a few years ago.",
+            "a": "President",
+            "b": "A President",
+            "c": "The President",
+            "d": "Such the President",
+            "answer": "3",
+            "explain": "\n- The: used to show that you are talking about a particular thing or person that has already been mentioned, is already known about, or is the only one\n At a certain time, there's only a president in West Germany",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ the official residence of the President of the USA.",
+            "a": "White House is",
+            "b": "A White House is",
+            "c": "White Houses are",
+            "d": "The White House is",
+            "answer": "4",
+            "explain": "\n- Some places and countries, and all rivers and oceans, have the as part of their name\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": " What on earth is that?  \" Don't you know? That's a whale, ___.\"",
+            "a": "largest world's mammal",
+            "b": "a largest mammal in the world",
+            "c": "the world's largest mammal",
+            "d": "largest mammal of the world",
+            "answer": "3",
+            "explain": "\n- The: used to show that you are talking about a particular thing or person that has already been mentioned, is already known about, or is the only one\n- The world's largest mammal> the only \n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ he was, he was not afraid at all.",
+            "a": "Child as",
+            "b": "A child as",
+            "c": "A child though",
+            "d": "The Child though",
+            "answer": "1",
+            "explain": "\n- Do not use article before a common noun used in its commonest sense\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ is a most widely used language.",
+            "a": "The English",
+            "b": "The English language",
+            "c": "An English",
+            "d": "English language",
+            "answer": "2",
+            "explain": "\n- The: used to show that you are talking about a particular thing or person that has already been mentioned, is already known about, or is the only one\n- The most widely used-> the only one and every already know\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        },
+        {
+            "question": "___ was created to be the companion, not the slave, of man.",
+            "a": "Woman",
+            "b": "A woman",
+            "c": "The woman",
+            "d": "Women",
+            "answer": "1",
+            "explain": "\n- Do not use article before a common noun used in its commonest sense\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "16"
+        }
+    ] 
+}

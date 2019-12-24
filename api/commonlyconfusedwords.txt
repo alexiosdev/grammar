@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "url": "learn_vs_study",
+      "urlfull": "1_learn_vs_study",
+      "name": "Learn vs Study"
+    },
+    {
+      "id": "2",
+      "url": "fit_vs_match",
+      "urlfull": "2_fit_vs_match",
+      "name": "Fit vs Match"
+    },
+    {
+      "id": "3",
+      "url": "historic_vs_historical",
+      "urlfull": "3_historic_vs_historical",
+      "name": "Historic vs Historical"
+    },
+    {
+      "id": "4",
+      "url": "expensive_vs_costly",
+      "urlfull": "4_expensive_vs_costly",
+      "name": "Expensive vs Costly"
+    },
+    {
+      "id": "5",
+      "url": "continuous_vs_continual",
+      "urlfull": "5_continuous_vs_continual",
+      "name": "Continuous vs Continual"
+    },
+    {
+      "id": "6",
+      "url": "bring_vs_take",
+      "urlfull": "6_bring_vs_take",
+      "name": "Bring vs Take"
+    },
+    {
+      "id": "7",
+      "url": "attend_vs_join",
+      "urlfull": "7_attend_vs_join",
+      "name": "Attend vs Join"
+    },
+    {
+      "id": "8",
+      "url": "died_vs_dead",
+      "urlfull": "8_died_vs_dead",
+      "name": "Died vs Dead"
+    },
+    {
+      "id": "9",
+      "url": "economic_vs_economical",
+      "urlfull": "9_economic_vs_economical",
+      "name": "Economic vs Economical"
+    },
+    {
+      "id": "10",
+      "url": "politic_vs_political",
+      "urlfull": "10_politic_vs_political",
+      "name": "Politic vs Political"
+    },
+    {
+      "id": "11",
+      "url": "specially_vs_especially",
+      "urlfull": "11_specially_vs_especially",
+      "name": "Specially vs Especially"
+    },
+    {
+      "id": "12",
+      "url": "home_vs_house",
+      "urlfull": "12_home_vs_house",
+      "name": "Home vs House"
+    },
+    {
+      "id": "13",
+      "url": "arrive_vs_reach",
+      "urlfull": "13_arrive_vs_reach",
+      "name": "Arrive vs Reach"
+    },
+    {
+      "id": "14",
+      "url": "make_vs_produce",
+      "urlfull": "14_make_vs_produce",
+      "name": "Make vs Produce"
+    },
+    {
+      "id": "15",
+      "url": "produce_vs_manufacture",
+      "urlfull": "15_produce_vs_manufacture",
+      "name": "Produce vs Manufacture"
+    },
+    {
+      "id": "16",
+      "url": "altogether_vs_all_together",
+      "urlfull": "16_altogether_vs_all_together",
+      "name": "Altogether vs All Together"
+    },
+    {
+      "id": "17",
+      "url": "although_vs_but",
+      "urlfull": "17_although_vs_but",
+      "name": "Although vs But"
+    },
+    {
+      "id": "18",
+      "url": "excited_vs_exciting",
+      "urlfull": "18_excited_vs_exciting",
+      "name": "Excited vs Exciting"
+    },
+    {
+      "id": "19",
+      "url": "interested_vs_interesting",
+      "urlfull": "19_interested_vs_interesting",
+      "name": "Interested vs Interesting"
+    },
+    {
+      "id": "20",
+      "url": "anyway_vs_any_way",
+      "urlfull": "20_anyway_vs_any_way",
+      "name": "Anyway vs Any Way"
+    },
+    {
+      "id": "21",
+      "url": "affect_vs_effect",
+      "urlfull": "21_affect_vs_effect",
+      "name": "Affect vs Effect"
+    },
+    {
+      "id": "22",
+      "url": "beside_vs_besides",
+      "urlfull": "22_beside_vs_besides",
+      "name": "Beside vs Besides"
+    },
+    {
+      "id": "23",
+      "url": "borrow_vs_lend",
+      "urlfull": "23_borrow_vs_lend",
+      "name": "Borrow vs Lend"
+    },
+    {
+      "id": "24",
+      "url": "fewer_vs_less",
+      "urlfull": "24_fewer_vs_less",
+      "name": "Fewer vs Less"
+    },
+    {
+      "id": "25",
+      "url": "invent_vs_discover",
+      "urlfull": "25_invent_vs_discover",
+      "name": "Invent vs Discover"
+    },
+    {
+      "id": "26",
+      "url": "injured_vs_wounded",
+      "urlfull": "26_injured_vs_wounded",
+      "name": "Injured vs Wounded"
+    },
+    {
+      "id": "27",
+      "url": "treat_vs_cure",
+      "urlfull": "27_treat_vs_cure",
+      "name": "Treat vs Cure"
+    },
+    {
+      "id": "28",
+      "url": "amount_vs_number",
+      "urlfull": "28_amount_vs_number",
+      "name": "Amount vs Number"
+    },
+    {
+      "id": "29",
+      "url": "imply_vs_infer",
+      "urlfull": "29_imply_vs_infer",
+      "name": "Imply vs Infer"
+    },
+    {
+      "id": "30",
+      "url": "sometime_vs_sometimes",
+      "urlfull": "30_sometime_vs_sometimes",
+      "name": "Sometime vs Sometimes"
+    },
+    {
+      "id": "31",
+      "url": "alike_vs_like_vs_similar",
+      "urlfull": "31_alike_vs_like_vs_similar",
+      "name": "Alike vs Like vs Similar"
+    },
+    {
+      "id": "32",
+      "url": "between_vs_among",
+      "urlfull": "32_between_vs_among",
+      "name": "Between vs Among"
+    },
+    {
+      "id": "33",
+      "url": "raise_vs_rise",
+      "urlfull": "33_raise_vs_rise",
+      "name": "Raise vs Rise"
+    },
+    {
+      "id": "34",
+      "url": "hire_vs_rent",
+      "urlfull": "34_hire_vs_rent",
+      "name": "Hire vs Rent"
+    },
+    {
+      "id": "35",
+      "url": "high_vs_tall",
+      "urlfull": "35_high_vs_tall",
+      "name": "High vs Tall"
+    },
+    {
+      "id": "36",
+      "url": "live_vs_stay",
+      "urlfull": "36_live_vs_stay",
+      "name": "Live vs Stay"
+    },
+    {
+      "id": "37",
+      "url": "work_vs_job",
+      "urlfull": "37_work_vs_job",
+      "name": "Work vs Job"
+    },
+    {
+      "id": "38",
+      "url": "other_vs_another",
+      "urlfull": "38_other_vs_another",
+      "name": "Other vs Another"
+    },
+    {
+      "id": "39",
+      "url": "salary_vs_income",
+      "urlfull": "39_salary_vs_income",
+      "name": "Salary vs Income"
+    },
+    {
+      "id": "40",
+      "url": "almost_vs_most",
+      "urlfull": "40_almost_vs_most",
+      "name": "Almost vs Most"
+    },
+    {
+      "id": "41",
+      "url": "passed_vs_past",
+      "urlfull": "41_passed_vs_past",
+      "name": "Passed vs Past"
+    },
+    {
+      "id": "42",
+      "url": "couple_vs_pair",
+      "urlfull": "42_couple_vs_pair",
+      "name": "Couple vs Pair"
+    },
+    {
+      "id": "43",
+      "url": "as_vs_like",
+      "urlfull": "43_as_vs_like",
+      "name": "As vs Like"
+    },
+    {
+      "id": "44",
+      "url": "wish_vs_hope",
+      "urlfull": "44_wish_vs_hope",
+      "name": "Wish vs Hope"
+    },
+    {
+      "id": "45",
+      "url": "quiet_vs_silent",
+      "urlfull": "45_quiet_vs_silent",
+      "name": "Quiet vs Silent"
+    }
+  ]
+}

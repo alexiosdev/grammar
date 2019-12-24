@@ -1,0 +1,124 @@
+{
+  "data": [
+        {
+            "question": "I have not taken ___ yet.",
+            "a": "supper",
+            "b": "a supper",
+            "c": "the supper",
+            "d": "suppers",
+            "answer": "1",
+            "explain": "\n-Before the 'Diner, Breakfast, Supper, Lunch etc. we don't use 'Article'",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "I had ___ this morning.",
+            "a": "heavy breakfast",
+            "b": "a heavy breakfast",
+            "c": "the heavy breakfast",
+            "d": "heavy breakfasts",
+            "answer": "2",
+            "explain": "\n- A: used before nouns that are usually uncountable when other information about the quality, feeling etc is added by an adjective, phrase, or clause",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "He was ___ to discover the land.",
+            "a": "first man",
+            "b": "the first man",
+            "c": "a first man",
+            "d": "the man first",
+            "answer": "2",
+            "explain": "\n- The first/second... time/person to do sth",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "You must get off at ___.",
+            "a": "a second stop",
+            "b": "the stop second",
+            "c": "the second stop",
+            "d": "second stop",
+            "answer": "3",
+            "explain": "\n- Order: the first, the second....",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "I have to buy ___ pair of shoes.",
+            "a": "a second",
+            "b": "second",
+            "c": "the second",
+            "d": "second the",
+            "answer": "1",
+            "explain": "\n- A: used to show that you are referring to a general type of person or thing and not a specific person or thing\nThis case, speaker just mention a general pair of shoes",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "He was brought up for ___.",
+            "a": "church",
+            "b": "a church",
+            "c": "churches",
+            "d": "the church",
+            "answer": "4",
+            "explain": "\n- Normally, we don't use \"the\" with words for institutions such as school, prison, college, university, church\t when you are talking about them in a general way\n+This case, speaker implies a specific church (where he was brought up)",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "___ was a broad-minded person.",
+            "a": "Deceased",
+            "b": "A deceased",
+            "c": "The deceased",
+            "d": "Decease",
+            "answer": "3",
+            "explain": "\n- The: used before an adjective to make it into a noun when you are referring to the particular kind of situation or thing that the adjective describes",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "Let's play _________, shall we?",
+            "a": "baseball",
+            "b": "a baseball",
+            "c": "the baseball",
+            "d": "baseballs",
+            "answer": "1",
+            "explain": "\n -'Article' is not used before the sports name – Cricket, Football etc",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "What species of ___ is this ?",
+            "a": "lily",
+            "b": "a lily",
+            "c": "the lily",
+            "d": "lilies",
+            "answer": "1",
+            "explain": "\n- Do not use article in certain phrases made up of a preposition + noun:  on foot, at school, from top to bottom, at home, in bed, by train, by car, in debt, in hand, on earth, at noon, on board, in jest, at best, at worst etc\n",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        },
+        {
+            "question": "I put ___ on the table.",
+            "a": "cup and saucer",
+            "b": "a cup and saucer",
+            "c": "a cup and a saucer",
+            "d": "cup and a saucer",
+            "answer": "2",
+            "explain": "\n- A cup and saucer= a cup an a saucer\nIn this case, two nouns are linked by \"and\"-> can obmiss the latter \"a\"",
+            "category": "1",
+            "subcategorylv1": "1",
+            "subcategorylv2": "19"
+        }
+    ]
+}
