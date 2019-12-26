@@ -29,7 +29,8 @@
             "subname": "Have, Has, Had Test",
             "subid": "have_has_had",
             "subcat": "1",
-            "more_update": "NO"
+            "more_update": "NO",
+            "introduction": "have_has_had.html",
         },
         {
             "id": "4",
