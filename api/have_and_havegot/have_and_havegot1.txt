@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "question": "I ___ got a dog.\r\n",
+      "a": "have",
+      "b": "has",
+      "answer": "1",
+      "explain": "- I/we/you/they + have got\r\n",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "3"
+    },
+    {
+      "question": "__________ he have a son?",
+      "a": "Does",
+      "b": "has",
+      "c": "do",
+      "d": "have",
+      "answer": "1",
+      "explain": "- Does + he/she/it + have got...?\r\n",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    },
+    {
+      "question": "__________ you have a present?\r\n",
+      "a": "Does",
+      "b": "has",
+      "c": "do",
+      "d": "have",
+      "answer": "3",
+      "explain": "- Do + I/you/we/they + have got...?",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    },
+    {
+      "question": "It ________ got a house.\n",
+      "a": "have",
+      "b": "has",
+      "answer": "2",
+      "explain": "- He/she/it + has got...",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "3"
+    },
+    {
+      "question": "We __________ got friends in Paris.\r\n",
+      "a": "don't have",
+      "b": "hasn't",
+      "c": "doesn't have",
+      "d": "haven't",
+      "answer": "4",
+      "explain": "Negative: I/we/you/they + haven't/have not + got.",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    },
+    {
+      "question": "He ________ a cat\r\n",
+      "a": "have",
+      "b": "has",
+      "answer": "2",
+      "explain": "Affirmative: he/she/it + has.",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "3"
+    },
+    {
+      "question": "She ________ a pet.\n",
+      "a": "have",
+      "b": "has",
+      "answer": "2",
+      "explain": "- He/she/it + has got...",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "3"
+    },
+    {
+      "question": "The lion __________ got brave friends.",
+      "a": "don't have",
+      "b": "hasn't",
+      "c": "doesn't have",
+      "d": "haven't",
+      "answer": "2",
+      "explain": "- He/she/it + hasn't/has not + got...\r\n",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    },
+    {
+      "question": "We __________ big bags.\r\n",
+      "a": "don't have",
+      "b": "hasn't",
+      "c": "doesn't have",
+      "d": "haven't",
+      "answer": "1",
+      "explain": "- I/we/you/they + don't/do not + have got...",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    },
+    {
+      "question": "__________ John have a car?\r\n",
+      "a": "Does",
+      "b": "has",
+      "c": "do",
+      "d": "have",
+      "answer": "1",
+      "explain": "- Does + he/she/it + have got...",
+      "category": "1",
+      "subcategorylv1": "2",
+      "subcategorylv2": "1",
+      "type": "1"
+    }
+  ]
+}
