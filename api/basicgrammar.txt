@@ -39,6 +39,7 @@
       "name": "Plural Nouns",
       "subname": "Plural Nouns Test",
       "subid": "plural_nouns",
+      "subcat": "1",
       "introduction": "plural_nouns.html"
     },
     {
@@ -125,7 +126,12 @@
       "id": "45",
       "url": "modal_verbs",
       "urlfull": "45_modal_verbs",
-      "name": "Modal Verbs"
+      "name": "Modal Verbs",
+      "subname": "Modal Verbs Test",
+      "subid": "modal_verbs",
+      "subcat": "1",
+      "introduction": "modal_verbs.html",
+      "more_update": "YES"
     },
     {
       "id": "47",
@@ -215,7 +221,11 @@
       "id": "64",
       "url": "sentence_patterns",
       "urlfull": "64_sentence_patterns",
-      "name": "Sentence Patterns"
+      "name": "Sentence Patterns",
+      "subname": "Sentence Patterns Test",
+      "subid": "sentence_patterns",
+      "subcat": "1",
+      "introduction": "sentence_patterns.html"
     },
     {
       "id": "65",
