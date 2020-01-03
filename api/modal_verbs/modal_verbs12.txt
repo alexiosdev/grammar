@@ -1,0 +1,121 @@
+{
+	"data": [
+        {
+            "question": "This chain is very valuable. You _______ lose it.",
+            "a": "might not ",
+            "b": "must",
+            "c": "mustn't ",
+            "d": "oughtn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "You _______ swim when you were a baby, could you?",
+            "a": "don't ",
+            "b": "couldn't",
+            "c": "can't ",
+            "d": "might",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "Excuse me, _______ I smoke in here?",
+            "a": "will ",
+            "b": "shall",
+            "c": "may ",
+            "d": "do",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "When he joined the Navy he ________ swim.",
+            "a": "didn't know ",
+            "b": "didn't",
+            "c": "couldn't ",
+            "d": "can't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "My father _______ come tomorrow, but I don't think he will.",
+            "a": "would ",
+            "b": "ought",
+            "c": "might ",
+            "d": "can",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "You _______ speak like that to your teachers. It's against the rules.",
+            "a": "needn't ",
+            "b": "mustn't",
+            "c": "couldn't ",
+            "d": "oughtn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "I know I _______ have told you that before.",
+            "a": "can ",
+            "b": "ought",
+            "c": "should ",
+            "d": "need",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.\n",
+            "a": "mustn't have booked",
+            "b": "needn't have booked",
+            "c": "can't have booked",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "Sarah made a lot of food for her party, but her guests ate only   about half of it. She _________ so much.\n",
+            "a": "couldn't have made",
+            "b": "needn't have made",
+            "c": "mustn't have made",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        },
+        {
+            "question": "I ___ be late for the train. I don't want to miss it.\n",
+            "a": "needn't",
+            "b": "mustn't",
+            "c": "don't have to",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "12",
+            "type": "2"
+        }
+    ]
+}

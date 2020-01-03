@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "question": "I ______ lived here since last week.",
+            "a": "has",
+            "b": "have",
+            "c": "had",
+            "d": "to have",
+            "answer": "2",
+            "explain": "We use Present Perfect:\t\n+ For something that started in the past and continues in the present \n+ Uses with unspecific expressions such as: since, for, ever, never, once, many times, several times, the first time, before, so far, already, yet, up to now, lately, recently... \n+ Structure: S+ have/has + Past Participle + (since/for...) \n- Subject (I) is first person singular-> I have lived...",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "If we_________enough time, we'll study this exercise more carefully.",
+            "a": "will have",
+            "b": "have",
+            "c": "had",
+            "d": "would have",
+            "answer": "2",
+            "explain": "-If Clause type 1: Type 1 indicates what will happen, provided that a certain situation is given.\nStructure: If + present simple, simple future",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "Lana _______ a bad cold yesterday.",
+            "a": "have",
+            "b": "has",
+            "c": "had",
+            "d": "having",
+            "answer": "3",
+            "explain": "-Use the Simple Past: \n+To express the idea that an action started and finished at a specific time in the past. \n+Signal words: yesterday, last week, last year, ago, in (+ period of time in the past), when (when I was young, when I was small...)",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "Today, many families_________ a TV set.",
+            "a": "have",
+            "b": "has",
+            "c": "had",
+            "d": "to have",
+            "answer": "1",
+            "explain": "- Use Simple Present when something that is true in the present (many families have a TV set today) \n-Subject-Verb Agreement: A singular subject takes a singular verb whereas a plural subject (many families) takes a plural verb (have). ",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "My sister _______ some new books at home.",
+            "a": "has",
+            "b": "have",
+            "c": "are having",
+            "d": "is",
+            "answer": "1",
+            "explain": "- Have: (verb) used to say that someone owns something or that it is available for them to use\n-Subject -Verb agreement:  A singular subject (my sister) takes a singular verb (has)\n-Some verbs are normally used in the simple form because they refer to states, rather than actions or processes:  \n+to look (=resemble), to seem, to be (in most cases), to have (when it means \"to possess\")",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "Every car ________ a number at the back and front.",
+            "a": "is having",
+            "b": "have",
+            "c": "has",
+            "d": "are having",
+            "answer": "3",
+            "explain": "-Some verbs are normally used in the simple form because they refer to states, rather than actions or processes: to look (=resemble), to seem, to be (in most cases), to have (when it means \"to possess\") \n-Use every: when you are thinking about the whole group of people or things together, with no exceptions \n+ Every are followed by a singular verb",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "He told me he ________ to leave the city the following day.",
+            "a": "will have",
+            "b": "would have",
+            "c": "has",
+            "d": "had",
+            "answer": "4",
+            "explain": "-In reported speech: If the reporting verb (i.e. said) is in the past, the reported clause will be in a past form. This form is usually one step back into the past from the original (has to-->had to)",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "She _______ History on Monday.",
+            "a": "have",
+            "b": "to have",
+            "c": "has",
+            "d": "haves",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "Forty years ago, very few people _______TV sets.",
+            "a": "had",
+            "b": "have",
+            "c": "has",
+            "d": "having",
+            "answer": "1",
+            "explain": "-Use the Simple Past: \n+To express the idea that an action started and finished at a specific time in the past. \n+Signal words: yesterday, last week, last year, ago, in (+ period of time in the past), when (when I was young, when I was small...)",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        },
+        {
+            "question": "You _______ to make sure children do not play with matches.",
+            "a": "have",
+            "b": "must",
+            "c": "has",
+            "d": "should",
+            "answer": "1",
+            "explain": "- Have to do something: if you have to do something, you must do it because it is necessary or because someone makes you do it \n+ Subject (you) is second person pronoun, it always takes plural verb (you have to...) \n- Must/should + bare infinitive\n",
+            "category": "1",
+            "subcategorylv1": "3",
+            "subcategorylv2": "1",
+            "type": "1"
+        }
+    ]
+}

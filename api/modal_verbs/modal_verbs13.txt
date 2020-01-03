@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "It _________ be lovely to have a fan in the sitting room. It gets very hot in there sometimes. Shall we get one?\n",
+            "a": "must",
+            "b": "could",
+            "c": "would",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "John knew there was something wrong with his car but he ___ take it to the garage. He couldn't afford to pay for any repairs.\n",
+            "a": "mustn't",
+            "b": "won't",
+            "c": "wouldn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.\n",
+            "a": "can't have made",
+            "b": "could have made",
+            "c": "could make",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "Jack took me to Paris for the weekend. He ___ me a better birthday present.\n",
+            "a": "couldn't have given",
+            "b": "can't have given",
+            "c": "couldn't give",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "___ lock my bicycle to yours. It'll be safe then.\n",
+            "a": "I'd better to",
+            "b": "I'd better",
+            "c": "I needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!\n",
+            "a": "I announce",
+            "b": "I should announce",
+            "c": "to announce",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.\n",
+            "a": "had better",
+            "b": "could",
+            "c": "were able to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "I'm sorry, but you ___ sit there. That table's reserved.\n",
+            "a": "couldn't",
+            "b": "wouldn't",
+            "c": "can't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "It's odd that Mark _________ get a taxi to work. Usually he drives.\n",
+            "a": "should",
+            "b": "can",
+            "c": "could",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        },
+        {
+            "question": "It's surprising that this restaurant ___ be so successful. The food isn't very good.\n",
+            "a": "might",
+            "b": "should",
+            "c": "would",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "13",
+            "type": "2"
+        }
+    ]
+}

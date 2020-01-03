@@ -1,0 +1,114 @@
+{
+	"data": [
+    {
+      "question": "You (have) .......... to work very hard if you want to pass your English exam.\n",
+      "a": "wil have",
+      "b": "have",
+      "c": "are having",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "You will be tired tomorrow if you (not to go). ........... to bed soon.\n",
+      "a": "don't go",
+      "b": "won't go",
+      "c": "aren't going",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "I will see you at the cinema if you (have) ........... the time.\n",
+      "a": "have",
+      "b": "will have",
+      "c": "are having",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If you sell more than you did last year you (be) ......... soon on your way.\n",
+      "a": "are",
+      "b": "will be",
+      "c": "are being",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If he (find) ......... a good job, he will pay all his bills.\n",
+      "a": "finds",
+      "b": "will find",
+      "c": "is finding",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If he (not accept) ......... our offer, we will have to withdraw.\n",
+      "a": "won't accept",
+      "b": "doesn't accept",
+      "c": "is not accepting",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If you (give) .......... me a 10% discount, I'll buy two.\n",
+      "a": "are giving",
+      "b": "give",
+      "c": "will give",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If sales (not improve) ........... soon, we will have to lay off some workers.\n",
+      "a": "aren't improving",
+      "b": "won't improve",
+      "c": "don't improve",
+      "answer": "3",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If the report (not be) .......... on my desk tomorrow morning, you will be in big trouble.\n",
+      "a": "isn't being",
+      "b": "won't be",
+      "c": "isn't",
+      "answer": "3",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "If I see you standing around the coffee machine talking again, you (not get)......... a rise.\n",
+      "a": "won't get",
+      "b": "don't get",
+      "c": "aren't getting",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "1",
+      "type": "2"
+    }
+  ]
+}

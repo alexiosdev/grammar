@@ -1,94 +1,94 @@
 {
 "data": [
-        {
-            "question": "a dish\n\n---> three ___",
-            "answer": "dishes",
-            "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n- dish -> dishes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a friend \n\n---> nine ___ ",
-            "answer": "friends",
-            "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n- friend -> friends",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a box \n\n---> seven ___ ",
-            "answer": "boxes",
-            "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n\n",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a puppy \n\n---> three  ___ ",
-            "answer": "puppies",
-            "explain": "\n\n- Nouns ending in - y preceded by a consonant is formed into a plural by changing - y to - ies\n\n",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a rabbit \n\n---> eight ___ ",
-            "answer": "rabbits",
-            "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a baby\n\n---> seven ___",
-            "answer": "babies",
-            "explain": "\n\n- baby -> babies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a theory\n\n---> 11 ____",
-            "answer": "theories",
-            "explain": "\n\n- theory -> theories\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a potato\n\n---> six ___",
-            "answer": "potatoes",
-            "explain": "\n\n- potato -> potatoes\nMost nouns ending in o preceded by a consonant -> +es.",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a studio\n\n---> nine ___",
-            "answer": "studios",
-            "explain": "\n\n- studio -> studios\nMost nouns ending in o preceded by a vowel -> +s.",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        },
-        {
-            "question": "a self\n\n---> six ___",
-            "answer": "selves",
-            "explain": "\n\n- self -> selves\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
-            "category": "1",
-            "subcategorylv1": "4",
-            "subcategorylv2": "1",
-            "type": "4"
-        }
-    ]
+    {
+      "question": "a dish\n\n---> three ___",
+      "answer": "dishes",
+      "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n- dish -> dishes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a friend \n\n---> nine ___ ",
+      "answer": "friends",
+      "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n- friend -> friends",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a box \n\n---> seven ___ ",
+      "answer": "boxes",
+      "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n\n\n",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a puppy \n\n---> three  ___ ",
+      "answer": "puppies",
+      "explain": "\n\n- Nouns ending in - y preceded by a consonant is formed into a plural by changing - y to - ies\n\n",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a rabbit \n\n---> eight ___ ",
+      "answer": "rabbits",
+      "explain": "\n\n- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a baby\n\n---> seven ___",
+      "answer": "babies",
+      "explain": "\n\n- baby -> babies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a theory\n\n---> 11 ____",
+      "answer": "theories",
+      "explain": "\n\n- theory -> theories\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a potato\n\n---> six ___",
+      "answer": "potatoes",
+      "explain": "\n\n- potato -> potatoes\nMost nouns ending in o preceded by a consonant -> +es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a studio\n\n---> nine ___",
+      "answer": "studios",
+      "explain": "\n\n- studio -> studios\nMost nouns ending in o preceded by a vowel -> +s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    },
+    {
+      "question": "a self\n\n---> six ___",
+      "answer": "selves",
+      "explain": "\n\n- self -> selves\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "1",
+      "type": "4"
+    }
+  ]
 }

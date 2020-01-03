@@ -1,5 +1,5 @@
 {
-  "data":  [
+  "data": [
     {
       "question": "Everyone who works in this department uses ___ computer.",
       "a": "a",
@@ -130,5 +130,5 @@
       "subcategorylv2": "2",
       "type": "1"
     }
-  ]
+  ] 
 }

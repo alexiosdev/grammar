@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "We ___ be able to get some cheap tickets to New York. It depends on when we want to travel.\n",
+            "a": "must",
+            "b": "would",
+            "c": "may",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "If the museum was nearer the town centre, more people ___ visit it.\n",
+            "a": "can",
+            "b": "might",
+            "c": "must",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "When I spoke to Anna yesterday, I promised that I ___ send her the information she wanted.\n",
+            "a": "would",
+            "b": "must",
+            "c": "will",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "Kate wanted to have a dog, but her landlord _________ let her keep one in the flat.\n",
+            "a": "shouldn't",
+            "b": "wouldn't",
+            "c": "needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "I can hear the television in Joe's room. He ___ the athletics on the satellite channel. I know he wanted to watch them.\n",
+            "a": "must be watching",
+            "b": "can't be watching",
+            "c": "mustn't be watching",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "Kate _________ 35. She looks much younger than that.\n",
+            "a": "mustn't be",
+            "b": "can't be",
+            "c": "needn't be",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "___ wear some good boots when you go out. It's very icy.\n",
+            "a": "You would",
+            "b": "You'd better",
+            "c": "You needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!\n",
+            "a": "I announce",
+            "b": "I should announce",
+            "c": "to announce",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "A friend tells you the name of a new restaurant, and she spells it for you. You don't write it all down, so you ask her: '___ you spell it again, please?'\n",
+            "a": "Would",
+            "b": "Should",
+            "c": "Might",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        },
+        {
+            "question": "You're watching television with a friend but the sound is too low for you. You ask: '___ I turn the sound up a little, please?'\n",
+            "a": "Would",
+            "b": "Can",
+            "c": "Should",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "23",
+            "type": "2"
+        }
+    ]
+}

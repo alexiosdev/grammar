@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+            "question": " Dr. Brazda ___ give the test today because the copier was broken.",
+            "a": "   can",
+            "b": "   could",
+            "c": "   couldn't",
+            "d": " ",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Mr. Miller ___ on a fishing trip when the semester ends.",
+            "a": "   could went",
+            "b": "   can goes",
+            "c": "   can go",
+            "d": "   could goes",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Mr. Pitts ______ well when he was younger.",
+            "a": "   can dance",
+            "b": "   could danced",
+            "c": "   can dances",
+            "d": "   could dance",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Vanrith ___ English 3 after he finishes English  2",
+            "a": "   could taken",
+            "b": "   can take",
+            "c": "   can took",
+            "d": "   could took",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Allen ____ very fast when he was younger.",
+            "a": "   could ran",
+            "b": "   could run",
+            "c": "   couldn't ran",
+            "d": "   can't run",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Bunly ___ in the ESL Technology Centers after he finishes the paperwork.",
+            "a": "   could work",
+            "b": "   can work",
+            "c": "   can works",
+            "d": "   could worked",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " My dog Tom ___ on the bed when he was a puppy but he can now.",
+            "a": "   can jump",
+            "b": "   can't jump",
+            "c": "   could jump",
+            "d": "   couldn't jump",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " ESL students ___ modals better after completing this lesson.",
+            "a": "   could use",
+            "b": "   can't use",
+            "c": "   can used",
+            "d": "   can use",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Bob ____ English  in the fall.",
+            "a": "   mays take",
+            "b": "   may take",
+            "c": "   may takes",
+            "d": "   mays takes",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        },
+        {
+            "question": " Vanrith might ___ to San Francisco this weeken",
+            "a": "   drives",
+            "b": "   driven",
+            "c": "   drove",
+            "d": "   drive",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "7",
+            "type": "1"
+        }
+    ]
+}

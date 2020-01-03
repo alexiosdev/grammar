@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+            "question": " Ana _________ the piano when she was a young girl.",
+            "a": "   could plays",
+            "b": "   could play",
+            "c": "   can play",
+            "d": "   coulds play",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Fluffy is a smart cat but even smart cats _____.",
+            "a": "   can read",
+            "b": "   cannot read",
+            "c": "   couldn't read",
+            "d": "   could read",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Sophorn ________ her homework if the work in the ESL Technology Centers is done.",
+            "a": "   could do",
+            "b": "   can't do",
+            "c": "   can do",
+            "d": "   couldn't do",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " John _____ all of the presidents when he was younger.",
+            "a": "   can name",
+            "b": "   could name",
+            "c": "   coulds name",
+            "d": "   could names",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Bunly ____ to the movies after he finishes his homework.",
+            "a": "   can go",
+            "b": "   could go",
+            "c": "   can gone",
+            "d": "   can went",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Sarik ____ the box because she wasn't strong enough.",
+            "a": "   can lift",
+            "b": "   couldn't lift",
+            "c": "   couldn't lifted",
+            "d": "   can't lift",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Sadine _____ the drums when she was a girl.",
+            "a": "   can play",
+            "b": "   could played",
+            "c": "   coulds play",
+            "d": "   could play",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Maria _________ lunch after the class leaves.",
+            "a": "   could have",
+            "b": "   can has",
+            "c": "   can have",
+            "d": "   couldn't have",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Sokhom ___ to the university after she finishes at Long Beach City College.",
+            "a": "   can transfer",
+            "b": "   couldn't transfer",
+            "c": "   can transfers",
+            "d": "   cans transfer",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        },
+        {
+            "question": " Harold ___ the baseball game because he had to work at the same.",
+            "a": "   can't attend",
+            "b": "   could attend",
+            "c": "   can attend",
+            "d": "   couldn't attend",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "6",
+            "type": "1"
+        }
+    ]
+}

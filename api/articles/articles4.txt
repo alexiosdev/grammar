@@ -1,5 +1,5 @@
 {
-	"data": [
+ "data": [
     {
       "question": "I don't watch _____ television much but I read a lot of books",
       "a": "a",
@@ -130,5 +130,5 @@
       "subcategorylv2": "4",
       "type": "1"
     }
-  ]
+  ] 
 }

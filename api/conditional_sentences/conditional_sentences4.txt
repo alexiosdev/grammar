@@ -1,0 +1,104 @@
+{
+	"data": [
+    {
+      "question": "If you shop at large discount stores, you (hurt) ......... the small local merchants.\n",
+      "a": "will hurt",
+      "b": "hurt",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If he (continue) ......... to work hard, he'll be the class valedictorian.\n",
+      "a": "continues",
+      "b": "will continue",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If little Chris (play) .......... in the mud, he will get dirty.\n",
+      "a": "will play",
+      "b": "plays",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If the cook (not care) ........... for the dinner, she will burn it.\n",
+      "a": "doesn't care",
+      "b": "won't care",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If they (not get ) ......... up early, they won't go jogging.\n",
+      "a": "won't get",
+      "b": "don't get",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If the children (not brush) .......... their teeth, they will have a lot of cavities.\n",
+      "a": "don't brush",
+      "b": "won't brush",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "He will have sore eyes if he (spend) ......... too much time working on the computer.\n",
+      "a": "will spend",
+      "b": "spends",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If he (not use) ......... light colours, his picture will be too dark.\n",
+      "a": "won't use",
+      "b": "doesn't use",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If he (not write) ........... a letter to Santa Claus, he won't get a present.\n",
+      "a": "doesn't write",
+      "b": "won't write",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    },
+    {
+      "question": "If the pharmacy (order) ......... a lot of medicines, it will bring more customers.\n",
+      "a": "orders",
+      "b": "will order",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "4",
+      "type": "2"
+    }
+  ]
+}

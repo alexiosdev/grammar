@@ -1,114 +1,114 @@
 {
-"data": [
-    {
-      "question": " You ___ help me if you don't have time. I can do the job myself.",
-      "a": "  aren't able to",
-      "b": "  don't have to",
-      "c": " mustn't",
-      "answer": "2",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " ___ you help me?",
-      "a": " May",
-      "b": "  Shall",
-      "c": "  Will",
-      "answer": "3",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " You ___ go into that room. It's forbidden!",
-      "a": " don't have to",
-      "b": "  mustn't",
-      "c": "  might not",
-      "answer": "2",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " It's 2:20 and he said he'd be here at 2:30. He ___ be here soon.",
-      "a": "  should",
-      "b": "  can",
-      "c": " would",
-      "answer": "1",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " I have a headache. ___ you buy some aspirin for me?",
-      "a": " Shall",
-      "b": "  May ",
-      "c": "  Could",
-      "answer": "3",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " There are no lights on and no one answers the doorbell. They ___ be at home.",
-      "a": "  must not",
-      "b": "  cannot",
-      "c": " will not",
-      "answer": "1",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " I ___ come to your party. I have to work.",
-      "a": " shouldn't",
-      "b": "  must not",
-      "c": "  can't",
-      "answer": "3",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " ___ I make some coffee? I'll do it if you'll drink a cup.",
-      "a": "  Must",
-      "b": "  Shall",
-      "c": " Ought",
-      "answer": "2",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " You ___ seen her in Chicago! I know for a fact that she wasright here in Phoenix!",
-      "a": "  must have",
-      "b": " should not have",
-      "c": "  couldn't have",
-      "answer": "3",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    },
-    {
-      "question": " Yes, I know that I ___ studied last night, but I decided towatch TV instea",
-      "a": " would have",
-      "b": "  should have",
-      "c": " must have",
-      "answer": "2",
-      "category": "1",
-      "subcategorylv1": "45",
-      "subcategorylv2": "1",
-      "type": "2"
-    }
-  ]
+	"data": [
+        {
+            "question": " You ___ help me if you don't have time. I can do the job myself.",
+            "a": "  aren't able to",
+            "b": "  don't have to",
+            "c": " mustn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " ___ you help me?",
+            "a": " May",
+            "b": "  Shall",
+            "c": "  Will",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " You ___ go into that room. It's forbidden!",
+            "a": " don't have to",
+            "b": "  mustn't",
+            "c": "  might not",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " It's 2:20 and he said he'd be here at 2:30. He ___ be here soon.",
+            "a": "  should",
+            "b": "  can",
+            "c": " would",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " I have a headache. ___ you buy some aspirin for me?",
+            "a": " Shall",
+            "b": "  May ",
+            "c": "  Could",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " There are no lights on and no one answers the doorbell. They ___ be at home.",
+            "a": "  must not",
+            "b": "  cannot",
+            "c": " will not",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " I ___ come to your party. I have to work.",
+            "a": " shouldn't",
+            "b": "  must not",
+            "c": "  can't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " ___ I make some coffee? I'll do it if you'll drink a cup.",
+            "a": "  Must",
+            "b": "  Shall",
+            "c": " Ought",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " You ___ seen her in Chicago! I know for a fact that she wasright here in Phoenix!",
+            "a": "  must have",
+            "b": " should not have",
+            "c": "  couldn't have",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        },
+        {
+            "question": " Yes, I know that I ___ studied last night, but I decided towatch TV instea",
+            "a": " would have",
+            "b": "  should have",
+            "c": " must have",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "1",
+            "type": "2"
+        }
+    ]
 }

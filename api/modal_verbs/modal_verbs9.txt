@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+            "question": "You ________ speak more clearly. I don't understand anything.",
+            "a": "ought ",
+            "b": "can't",
+            "c": "should ",
+            "d": "may",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "Excuse me, _______ I smoke in this room?",
+            "a": "may ",
+            "b": "shall",
+            "c": "ought ",
+            "d": "should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "When my daughter got married, she _______ cook.",
+            "a": "might not ",
+            "b": "couldn't",
+            "c": "oughtn't ",
+            "d": "shouldn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "The noise they made was deafening. You _______ have heard it.",
+            "a": "ought ",
+            "b": "mightn't",
+            "c": "mustn't ",
+            "d": "must",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "You _______ say such words in front of the children. It's disgusting!",
+            "a": "mightn't ",
+            "b": "mustn't",
+            "c": "oughtn't ",
+            "d": "couldn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "I _______ lend you some money, if you promised to return it.",
+            "a": "might ",
+            "b": "can",
+            "c": "ought ",
+            "d": "should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "You _______ heard the explosion. It was deafening.",
+            "a": "might ",
+            "b": "might have",
+            "c": "could have ",
+            "d": "must have",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "She is still there. You ________ hurry.",
+            "a": "might not ",
+            "b": "shouldn't",
+            "c": "oughtn't ",
+            "d": "needn't",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "He _______ be Old Jim, Old Jim is dead.",
+            "a": "wouldn't ",
+            "b": "mustn't",
+            "c": "can't ",
+            "d": "hasn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        },
+        {
+            "question": "I don't think we _______ to write about that subject yet. It's too sensitive.",
+            "a": "should ",
+            "b": "must",
+            "c": "ought ",
+            "d": "might",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "9",
+            "type": "1"
+        }
+    ]
+}

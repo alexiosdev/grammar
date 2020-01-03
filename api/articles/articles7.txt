@@ -1,5 +1,5 @@
 {
-  "data": [
+ "data": [
     {
       "question": "The film was about a man who was sent to prison for _____ crime he didn't commit.",
       "a": "a",
@@ -130,5 +130,5 @@
       "subcategorylv2": "7",
       "type": "1"
     }
-  ]
+  ] 
 }

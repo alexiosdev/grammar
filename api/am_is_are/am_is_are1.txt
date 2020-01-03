@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "I ________ in the forest.",
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "answer": "1",
+      "explain": "Affirmative: I + am.",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "Mrs Hill's daughter ________ clever.",
+      "a": "am not",
+      "b": "isn't",
+      "c": "aren't",
+      "answer": "2",
+      "explain": "Negative: he/she/it + isn't/is not.",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "Sasha and Valera ________ friends.",
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "answer": "3",
+      "explain": "Affirmative: you/we/they + are.",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "Mrs.Green's aunt ________ a doctor.",
+      "a": "am not",
+      "b": "isn't",
+      "c": "aren't",
+      "answer": "2",
+      "explain": "Negative: he/she/it + isn't/is not.",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "The frog ________ funny.",
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "answer": "2",
+      "explain": "The frog (singular) + is ",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "The women ________ in the room.",
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "answer": "3",
+      "explain": "The women (plural) + are",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "My name ________ Vera.",
+      "a": "am not",
+      "b": "isn't",
+      "c": "aren't",
+      "answer": "2",
+      "explain": "My name (singular) + is(not)",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "I ________ nine.",
+      "a": "am not",
+      "b": "isn't",
+      "c": "aren't",
+      "answer": "1",
+      "explain": "I am not",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "She ________ a teacher.",
+      "a": "am not",
+      "b": "isn't",
+      "c": "aren't",
+      "answer": "2",
+      "explain": "He/she/it + isn't/is not.",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    },
+    {
+      "question": "The bags ________ in the room.",
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "answer": "3",
+      "explain": "The bags (plural) + are ",
+      "category": "1",
+      "subcategorylv1": "8",
+      "subcategorylv2": "1",
+      "type": "2"
+    }
+  ]
+}

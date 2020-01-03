@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "___ wear some good boots when you go out. It's very icy.\n",
+            "a": "You would",
+            "b": "You'd better",
+            "c": "You needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "Don't leave your glasses on the chair. Someone ___ sit on them.\n",
+            "a": "should",
+            "b": "may",
+            "c": "must",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "If the museum was nearer the town centre, more people ___ visit it.\n",
+            "a": "can",
+            "b": "might",
+            "c": "must",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "A: Rebecca didn't say much last night, did she?\nB: No. She ___ tired. I think she's working hard at the moment.\n",
+            "a": "can't have been",
+            "b": "should have been",
+            "c": "might have been",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "Laura ___ the money from the shop where she works. She was on holiday when the money disappeared.\n",
+            "a": "may not have stolen",
+            "b": "might not have stolen",
+            "c": "couldn't have stolen",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "It's odd that Mark _________ get a taxi to work. Usually he drives.\n",
+            "a": "should",
+            "b": "can",
+            "c": "could",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "_________ you have time tomorrow, could you send these forms to Linda, please?\n",
+            "a": "Could",
+            "b": "Would",
+            "c": "Should",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "_________ know a lot about animals for this job?\n",
+            "a": "Are you able to",
+            "b": "Could you",
+            "c": "Do you have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "You ___ eat a lot just before you go swimming. If you do, you might feel ill.\n",
+            "a": "mustn't",
+            "b": "don't have to",
+            "c": "needn't",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        },
+        {
+            "question": "A friend says he is going swimming this evening and you want to go with him. You ask: 'Do you think I ___ come with you?'\n",
+            "a": "could",
+            "b": "can",
+            "c": "would",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "26",
+            "type": "2"
+        }
+    ]
+}
