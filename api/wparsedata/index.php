@@ -5,10 +5,15 @@
 // }
 
 
-$categoryName = "articles";
+$categoryName = "verbs";
 $data = file_get_contents ("./test.json");
         $json = json_decode($data, true);
         // var_dump($json["articles5"]);
+if( is_dir($categoryName) === false )
+{
+    mkdir($categoryName);
+}
+
 foreach ($json as $key => $value) {
 
 	$arrayName = array('data' => $value);
