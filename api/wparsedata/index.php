@@ -5,7 +5,7 @@
 // }
 
 
-$categoryName = "verbs";
+$categoryName = "total_grammar_preinter";
 $data = file_get_contents ("./test.json");
         $json = json_decode($data, true);
         // var_dump($json["articles5"]);
