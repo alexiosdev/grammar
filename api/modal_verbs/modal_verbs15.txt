@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": "There's nothing to do at home. I ___ go for a walk.\n",
+            "question": "There's nothing to do at home. I ___ go for a walk.",
             "a": "might as well",
             "b": "can't",
             "c": "needn't",
@@ -12,7 +12,7 @@
             "type": "2"
         },
         {
-            "question": "A: Shall we go and see Phil's band on Saturday?\nB: Yes, although Phil ___. He's not very well.\n",
+            "question": "A: Shall we go and see Phil's band on Saturday?\nB: Yes, although Phil ___. He's not very well.",
             "a": "mustn't be playing",
             "b": "couldn't be playing",
             "c": "may not be playing",
@@ -23,7 +23,7 @@
             "type": "2"
         },
         {
-            "question": "A: Our car broke down last night and we didn't get home till 4.00 in the morning.\nB: How awful! You ___ exhausted.\nA: Yes, we were.\n",
+            "question": "A: Our car broke down last night and we didn't get home till 4.00 in the morning.\nB: How awful! You ___ exhausted.\nA: Yes, we were.",
             "a": "can't have been",
             "b": "couldn't have been",
             "c": "must have been",
@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "question": "The library ___ closed. Nobody's answering the phone.\n",
+            "question": "The library ___ closed. Nobody's answering the phone.",
             "a": "can't be",
             "b": "must be",
             "c": "needn't be",
@@ -45,7 +45,7 @@
             "type": "2"
         },
         {
-            "question": "I can hear the television in Joe's room. He ___ the athletics on the satellite channel. I know he wanted to watch them.\n",
+            "question": "I can hear the television in Joe's room. He ___ the athletics on the satellite channel. I know he wanted to watch them.",
             "a": "must be watching",
             "b": "can't be watching",
             "c": "mustn't be watching",
@@ -56,7 +56,7 @@
             "type": "2"
         },
         {
-            "question": "You ________ get some rest. You've been working very hard today and you look really tired.\n",
+            "question": "You ________ get some rest. You've been working very hard today and you look really tired.",
             "a": "may",
             "b": "needn't",
             "c": "must",
@@ -67,7 +67,7 @@
             "type": "2"
         },
         {
-            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.\n",
+            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.",
             "a": "mustn't have booked",
             "b": "needn't have booked",
             "c": "can't have booked",
@@ -78,7 +78,7 @@
             "type": "2"
         },
         {
-            "question": "We were worried because we _________ smell petrol in the car.\n",
+            "question": "We were worried because we _________ smell petrol in the car.",
             "a": "can",
             "b": "could",
             "c": "managed to",
@@ -89,7 +89,7 @@
             "type": "2"
         },
         {
-            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.\n",
+            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.",
             "a": "had better",
             "b": "could",
             "c": "were able to",
@@ -100,7 +100,7 @@
             "type": "2"
         },
         {
-            "question": "Jack ___ in that team. It's for boys aged 15 to 18, and he's 20. We must tell him when the match finishes.\n",
+            "question": "Jack ___ in that team. It's for boys aged 15 to 18, and he's 20. We must tell him when the match finishes.",
             "a": "couldn't be playing",
             "b": "shouldn't be playing",
             "c": "needn't play",

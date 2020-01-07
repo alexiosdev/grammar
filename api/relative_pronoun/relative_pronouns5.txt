@@ -72,7 +72,7 @@
       "c": "whom",
       "d": "who",
       "answer": "4",
-      "explain": "\n- \"Who\" is a Subject Pronoun (do an action)\n- \"Whom\" is an Object Pronoun (receive an action)\n- \"Whose\" is a Possessive Pronoun (Possessive forms tell us the person something belongs to)\n- Which: used to ask or talk about one or more members of a group of people or things, when you are uncertain about it or about them\n+We prefer which when the number of choices is limited\n",
+      "explain": "\n- \"Who\" is a Subject Pronoun (do an action)\n- \"Whom\" is an Object Pronoun (receive an action)\n- \"Whose\" is a Possessive Pronoun (Possessive forms tell us the person something belongs to)\n- Which: used to ask or talk about one or more members of a group of people or things, when you are uncertain about it or about them\n+We prefer which when the number of choices is limited",
       "category": "1",
       "subcategorylv1": "49",
       "subcategorylv2": "5",

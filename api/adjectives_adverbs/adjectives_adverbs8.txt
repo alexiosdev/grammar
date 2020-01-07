@@ -72,7 +72,7 @@
       "c": "always",
       "d": "nearly",
       "answer": "3",
-      "explain": ".\n- Always: all the time, at all times, or every time\n-Mostly = of all the options, this is the majority. \n-Almost = good enough but not perfect.\n-Nearly = very close to the optimal position but not quite there.\n",
+      "explain": ".\n- Always: all the time, at all times, or every time\n-Mostly = of all the options, this is the majority. \n-Almost = good enough but not perfect.\n-Nearly = very close to the optimal position but not quite there.",
       "category": "1",
       "subcategorylv1": "7",
       "subcategorylv2": "8",

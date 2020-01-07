@@ -59,7 +59,7 @@
       "c": "whom",
       "d": "whose",
       "answer": "1",
-      "explain": "\n- What:  used to introduce a clause about something that is or was not known or not certain\n+ What is preferred when the number of choices is unlimited\n- That: used after verbs, nouns, and adjectives to introduce a clause which shows what someone says or thinks, or states a fact or reason \n- \"Whom\" is an Object Pronoun (receive an action)\n- \"Whose\" is a Possessive Pronoun (Possessive forms tell us the person something belongs to)\n",
+      "explain": "\n- What:  used to introduce a clause about something that is or was not known or not certain\n+ What is preferred when the number of choices is unlimited\n- That: used after verbs, nouns, and adjectives to introduce a clause which shows what someone says or thinks, or states a fact or reason \n- \"Whom\" is an Object Pronoun (receive an action)\n- \"Whose\" is a Possessive Pronoun (Possessive forms tell us the person something belongs to)",
       "category": "1",
       "subcategorylv1": "49",
       "subcategorylv2": "6",

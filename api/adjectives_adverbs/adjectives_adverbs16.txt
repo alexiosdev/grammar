@@ -6,7 +6,7 @@
       "c": "the most patient",
       "d": "the more patient",
       "answer": "4",
-      "explain": ".\n- Comprative: used when comparing two things\n+ adj + er (short adj)/ more + adj (long adj)\n",
+      "explain": ".\n- Comprative: used when comparing two things\n+ adj + er (short adj)/ more + adj (long adj)",
       "category": "1",
       "subcategorylv1": "7",
       "subcategorylv2": "16",

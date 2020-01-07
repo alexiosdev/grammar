@@ -38,7 +38,7 @@
       "type": "1"
     },
     {
-      "question": "It _____ got a house.\n",
+      "question": "It _____ got a house.",
       "a": "have",
       "b": "has",
       "answer": "2",
@@ -73,7 +73,7 @@
       "type": "3"
     },
     {
-      "question": "She _____ a pet.\n",
+      "question": "She _____ a pet.",
       "a": "have",
       "b": "has",
       "answer": "2",

@@ -46,7 +46,7 @@
             "c": "to rent",
             "d": "to be rented",
             "answer": "3",
-            "explain": "\n- Adjective + enough + to V\n\n",
+            "explain": "\n- Adjective + enough + to V",
             "category": "1",
             "subcategorylv1": "43",
             "subcategorylv2": "3",

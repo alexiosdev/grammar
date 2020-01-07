@@ -1,7 +1,7 @@
 {
 	"data": [
     {
-      "question": "You (have) .......... to work very hard if you want to pass your English exam.\n",
+      "question": "You (have) .......... to work very hard if you want to pass your English exam.",
       "a": "wil have",
       "b": "have",
       "c": "are having",
@@ -12,7 +12,7 @@
       "type": "2"
     },
     {
-      "question": "You will be tired tomorrow if you (not to go). ........... to bed soon.\n",
+      "question": "You will be tired tomorrow if you (not to go). ........... to bed soon.",
       "a": "don't go",
       "b": "won't go",
       "c": "aren't going",
@@ -23,7 +23,7 @@
       "type": "2"
     },
     {
-      "question": "I will see you at the cinema if you (have) ........... the time.\n",
+      "question": "I will see you at the cinema if you (have) ........... the time.",
       "a": "have",
       "b": "will have",
       "c": "are having",
@@ -34,7 +34,7 @@
       "type": "2"
     },
     {
-      "question": "If you sell more than you did last year you (be) ......... soon on your way.\n",
+      "question": "If you sell more than you did last year you (be) ......... soon on your way.",
       "a": "are",
       "b": "will be",
       "c": "are being",
@@ -45,7 +45,7 @@
       "type": "2"
     },
     {
-      "question": "If he (find) ......... a good job, he will pay all his bills.\n",
+      "question": "If he (find) ......... a good job, he will pay all his bills.",
       "a": "finds",
       "b": "will find",
       "c": "is finding",
@@ -56,7 +56,7 @@
       "type": "2"
     },
     {
-      "question": "If he (not accept) ......... our offer, we will have to withdraw.\n",
+      "question": "If he (not accept) ......... our offer, we will have to withdraw.",
       "a": "won't accept",
       "b": "doesn't accept",
       "c": "is not accepting",
@@ -67,7 +67,7 @@
       "type": "2"
     },
     {
-      "question": "If you (give) .......... me a 10% discount, I'll buy two.\n",
+      "question": "If you (give) .......... me a 10% discount, I'll buy two.",
       "a": "are giving",
       "b": "give",
       "c": "will give",
@@ -78,7 +78,7 @@
       "type": "2"
     },
     {
-      "question": "If sales (not improve) ........... soon, we will have to lay off some workers.\n",
+      "question": "If sales (not improve) ........... soon, we will have to lay off some workers.",
       "a": "aren't improving",
       "b": "won't improve",
       "c": "don't improve",
@@ -89,7 +89,7 @@
       "type": "2"
     },
     {
-      "question": "If the report (not be) .......... on my desk tomorrow morning, you will be in big trouble.\n",
+      "question": "If the report (not be) .......... on my desk tomorrow morning, you will be in big trouble.",
       "a": "isn't being",
       "b": "won't be",
       "c": "isn't",
@@ -100,7 +100,7 @@
       "type": "2"
     },
     {
-      "question": "If I see you standing around the coffee machine talking again, you (not get)......... a rise.\n",
+      "question": "If I see you standing around the coffee machine talking again, you (not get)......... a rise.",
       "a": "won't get",
       "b": "don't get",
       "c": "aren't getting",

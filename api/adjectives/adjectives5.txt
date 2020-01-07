@@ -98,7 +98,7 @@
       "c": "some",
       "d": "any",
       "answer": "4",
-      "explain": "- Any: used in negative sentences \n\n",
+      "explain": "- Any: used in negative sentences ",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",

@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": "A friend tells you the name of a new restaurant, and she spells it for you. You don't write it all down, so you ask her: '___ you spell it again, please?'\n",
+            "question": "A friend tells you the name of a new restaurant, and she spells it for you. You don't write it all down, so you ask her: '___ you spell it again, please?'",
             "a": "Would",
             "b": "Should",
             "c": "Might",
@@ -12,7 +12,7 @@
             "type": "2"
         },
         {
-            "question": "A friend arrives at your flat. He's very hot and thirsty. You ask: '___ you like a glass of water?'\n",
+            "question": "A friend arrives at your flat. He's very hot and thirsty. You ask: '___ you like a glass of water?'",
             "a": "Would",
             "b": "Could",
             "c": "Should",
@@ -23,7 +23,7 @@
             "type": "2"
         },
         {
-            "question": "I _________ on television next month. The TV company were filming our hospital today for a programme about young doctors.\n",
+            "question": "I _________ on television next month. The TV company were filming our hospital today for a programme about young doctors.",
             "a": "can be",
             "b": "could be",
             "c": "could have been",
@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.\n",
+            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.",
             "a": "can't have made",
             "b": "could have made",
             "c": "could make",
@@ -45,7 +45,7 @@
             "type": "2"
         },
         {
-            "question": "I'm so hungry, I ___ a horse!\n",
+            "question": "I'm so hungry, I ___ a horse!",
             "a": "would eat",
             "b": "could have eaten",
             "c": "could eat",
@@ -56,7 +56,7 @@
             "type": "2"
         },
         {
-            "question": "Sue used to ___ speak Arabic fluently, but she's forgotten a lot of it now.\n",
+            "question": "Sue used to ___ speak Arabic fluently, but she's forgotten a lot of it now.",
             "a": "be able to",
             "b": "could",
             "c": "can",
@@ -67,7 +67,7 @@
             "type": "2"
         },
         {
-            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.\n",
+            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.",
             "a": "had better",
             "b": "could",
             "c": "were able to",
@@ -78,7 +78,7 @@
             "type": "2"
         },
         {
-            "question": "We'll _________ clean the flat before Emma comes. It's quite dirty.\n",
+            "question": "We'll _________ clean the flat before Emma comes. It's quite dirty.",
             "a": "must",
             "b": "have to",
             "c": "should",
@@ -89,7 +89,7 @@
             "type": "2"
         },
         {
-            "question": "Ben _________ walk to work. He could get the bus, but he walks because he likes the exercise.\n",
+            "question": "Ben _________ walk to work. He could get the bus, but he walks because he likes the exercise.",
             "a": "doesn't have to",
             "b": "mustn't",
             "c": "can't",
@@ -100,7 +100,7 @@
             "type": "2"
         },
         {
-            "question": "Anna ___ Daniel your phone number. She doesn't know him.\n",
+            "question": "Anna ___ Daniel your phone number. She doesn't know him.",
             "a": "couldn't have given",
             "b": "may not have given",
             "c": "might not have given",

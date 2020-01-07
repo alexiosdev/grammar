@@ -72,7 +72,7 @@
       "c": "with safeness",
       "d": "with safety",
       "answer": "1",
-      "explain": ".\n- An adverb is also a modifier, but it describes a verb, an adjective, or another adverb\n+ \"Safely\" describes \"arrive\"\n",
+      "explain": ".\n- An adverb is also a modifier, but it describes a verb, an adjective, or another adverb\n+ \"Safely\" describes \"arrive\"",
       "category": "1",
       "subcategorylv1": "7",
       "subcategorylv2": "7",

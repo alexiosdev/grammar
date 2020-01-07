@@ -33,7 +33,7 @@
       "c": "was",
       "d": "is",
       "answer": "3",
-      "explain": "-Use the Simple Past: \n+To express the idea that an action started and finished at a specific time in the past. \n+Signal words: yesterday, last week, last year, ago, in (+ period of time in the past), when (when I was young, when I was small...) \n- \"To be\" (verb & auxiliary) and subject (in simple past tense) \n+ Was (I, he, she, it, this, that, singular noun/ uncountable noun) \n+ Were (You, we, they, these, those, plural noun/pronoun)\n",
+      "explain": "-Use the Simple Past: \n+To express the idea that an action started and finished at a specific time in the past. \n+Signal words: yesterday, last week, last year, ago, in (+ period of time in the past), when (when I was young, when I was small...) \n- \"To be\" (verb & auxiliary) and subject (in simple past tense) \n+ Was (I, he, she, it, this, that, singular noun/ uncountable noun) \n+ Were (You, we, they, these, those, plural noun/pronoun)",
       "category": "1",
       "subcategorylv1": "9",
       "subcategorylv2": "1",

@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": "It _________ be lovely to have a fan in the sitting room. It gets very hot in there sometimes. Shall we get one?\n",
+            "question": "It _________ be lovely to have a fan in the sitting room. It gets very hot in there sometimes. Shall we get one?",
             "a": "must",
             "b": "could",
             "c": "would",
@@ -12,7 +12,7 @@
             "type": "2"
         },
         {
-            "question": "John knew there was something wrong with his car but he ___ take it to the garage. He couldn't afford to pay for any repairs.\n",
+            "question": "John knew there was something wrong with his car but he ___ take it to the garage. He couldn't afford to pay for any repairs.",
             "a": "mustn't",
             "b": "won't",
             "c": "wouldn't",
@@ -23,7 +23,7 @@
             "type": "2"
         },
         {
-            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.\n",
+            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.",
             "a": "can't have made",
             "b": "could have made",
             "c": "could make",
@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "question": "Jack took me to Paris for the weekend. He ___ me a better birthday present.\n",
+            "question": "Jack took me to Paris for the weekend. He ___ me a better birthday present.",
             "a": "couldn't have given",
             "b": "can't have given",
             "c": "couldn't give",
@@ -45,7 +45,7 @@
             "type": "2"
         },
         {
-            "question": "___ lock my bicycle to yours. It'll be safe then.\n",
+            "question": "___ lock my bicycle to yours. It'll be safe then.",
             "a": "I'd better to",
             "b": "I'd better",
             "c": "I needn't",
@@ -56,7 +56,7 @@
             "type": "2"
         },
         {
-            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!\n",
+            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!",
             "a": "I announce",
             "b": "I should announce",
             "c": "to announce",
@@ -67,7 +67,7 @@
             "type": "2"
         },
         {
-            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.\n",
+            "question": "When Helen and Sue started their business, they didn't have much experience, but they ___ persuade the bank to lend them some money.",
             "a": "had better",
             "b": "could",
             "c": "were able to",
@@ -78,7 +78,7 @@
             "type": "2"
         },
         {
-            "question": "I'm sorry, but you ___ sit there. That table's reserved.\n",
+            "question": "I'm sorry, but you ___ sit there. That table's reserved.",
             "a": "couldn't",
             "b": "wouldn't",
             "c": "can't",
@@ -89,7 +89,7 @@
             "type": "2"
         },
         {
-            "question": "It's odd that Mark _________ get a taxi to work. Usually he drives.\n",
+            "question": "It's odd that Mark _________ get a taxi to work. Usually he drives.",
             "a": "should",
             "b": "can",
             "c": "could",
@@ -100,7 +100,7 @@
             "type": "2"
         },
         {
-            "question": "It's surprising that this restaurant ___ be so successful. The food isn't very good.\n",
+            "question": "It's surprising that this restaurant ___ be so successful. The food isn't very good.",
             "a": "might",
             "b": "should",
             "c": "would",

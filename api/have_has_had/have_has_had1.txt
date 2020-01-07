@@ -123,7 +123,7 @@
             "c": "has",
             "d": "should",
             "answer": "1",
-            "explain": "- Have to do something: if you have to do something, you must do it because it is necessary or because someone makes you do it \n+ Subject (you) is second person pronoun, it always takes plural verb (you have to...) \n- Must/should + bare infinitive\n",
+            "explain": "- Have to do something: if you have to do something, you must do it because it is necessary or because someone makes you do it \n+ Subject (you) is second person pronoun, it always takes plural verb (you have to...) \n- Must/should + bare infinitive",
             "category": "1",
             "subcategorylv1": "3",
             "subcategorylv2": "1",

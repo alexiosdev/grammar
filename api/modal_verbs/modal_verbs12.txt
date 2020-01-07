@@ -85,7 +85,7 @@
             "type": "2"
         },
         {
-            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.\n",
+            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.",
             "a": "mustn't have booked",
             "b": "needn't have booked",
             "c": "can't have booked",
@@ -96,7 +96,7 @@
             "type": "2"
         },
         {
-            "question": "Sarah made a lot of food for her party, but her guests ate only   about half of it. She _________ so much.\n",
+            "question": "Sarah made a lot of food for her party, but her guests ate only   about half of it. She _________ so much.",
             "a": "couldn't have made",
             "b": "needn't have made",
             "c": "mustn't have made",
@@ -107,7 +107,7 @@
             "type": "2"
         },
         {
-            "question": "I ___ be late for the train. I don't want to miss it.\n",
+            "question": "I ___ be late for the train. I don't want to miss it.",
             "a": "needn't",
             "b": "mustn't",
             "c": "don't have to",

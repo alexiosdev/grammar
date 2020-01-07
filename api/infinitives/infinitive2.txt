@@ -7,7 +7,7 @@
             "c": "proposed",
             "d": "expected",
             "answer": "4",
-            "explain": "\n- Expect somebody to do something \n\n",
+            "explain": "\n- Expect somebody to do something ",
             "category": "1",
             "subcategorylv1": "43",
             "subcategorylv2": "2",

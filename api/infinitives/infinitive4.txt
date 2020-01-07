@@ -85,7 +85,7 @@
             "c": "doing",
             "d": "to",
             "answer": "4",
-            "explain": "\n- Want + To Verb, in this sentence Verb can be hidden\n",
+            "explain": "\n- Want + To Verb, in this sentence Verb can be hidden",
             "category": "1",
             "subcategorylv1": "43",
             "subcategorylv2": "4",

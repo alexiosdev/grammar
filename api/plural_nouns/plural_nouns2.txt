@@ -3,7 +3,7 @@
     {
       "question": "a tooth \n\n---> four ___ ",
       "answer": "teeth",
-      "explain": "\n\n- tooth -> teeth\n(irregular plural)",
+      "explain": "- tooth -> teeth\n(irregular plural)",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -12,7 +12,7 @@
     {
       "question": "a name\n\n---> six ___",
       "answer": "names",
-      "explain": "\n\n- name -> names",
+      "explain": "- name -> names",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -21,7 +21,7 @@
     {
       "question": "a toy \n\n---> four ___ ",
       "answer": "toys",
-      "explain": "\n\n- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "explain": "- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -30,7 +30,7 @@
     {
       "question": "a bag\n\n---> five ___",
       "answer": "bags",
-      "explain": "\n\n- bag -> bags",
+      "explain": "- bag -> bags",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -39,7 +39,7 @@
     {
       "question": "a buzz\n\n---> five ___",
       "answer": "buzzes",
-      "explain": "\n\n- buzz -> buzzes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "explain": "- buzz -> buzzes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -48,7 +48,7 @@
     {
       "question": "a toy\n\n---> five ___",
       "answer": "toys",
-      "explain": "\n\n- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "explain": "- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -57,7 +57,7 @@
     {
       "question": "a nose\n\n---> seven ___",
       "answer": "noses",
-      "explain": "\n\n- nose -> noses",
+      "explain": "- nose -> noses",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -66,7 +66,7 @@
     {
       "question": "a wife\n\n---> two ____",
       "answer": "wives",
-      "explain": "\n\n- wife -> wives\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
+      "explain": "- wife -> wives\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -75,7 +75,7 @@
     {
       "question": "a fox \n\n---> nine ___ ",
       "answer": "foxes",
-      "explain": "\n\n- fox -> foxes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "explain": "- fox -> foxes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",
@@ -84,7 +84,7 @@
     {
       "question": "a family \n\n---> two ___ ",
       "answer": "families",
-      "explain": "\n\n- family -> families\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "explain": "- family -> families\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "2",

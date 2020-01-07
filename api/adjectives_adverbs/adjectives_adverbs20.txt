@@ -59,7 +59,7 @@
       "c": "the most",
       "d": "better",
       "answer": "4",
-      "explain": ".\n- Comprative: used when comparing two things\n+ adj + er (short adj)/ more + adj (long adj)\n+Good/well-> better\n",
+      "explain": ".\n- Comprative: used when comparing two things\n+ adj + er (short adj)/ more + adj (long adj)\n+Good/well-> better",
       "category": "1",
       "subcategorylv1": "7",
       "subcategorylv2": "20",

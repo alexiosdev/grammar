@@ -3,7 +3,7 @@
     {
       "question": "a fly\n\n---> six ___",
       "answer": "flies",
-      "explain": "\n\n- fly -> flies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "explain": "- fly -> flies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -12,7 +12,7 @@
     {
       "question": "a bike\n\n---> five ___",
       "answer": "bikes",
-      "explain": "\n\n- bike -> bikes",
+      "explain": "- bike -> bikes",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -21,7 +21,7 @@
     {
       "question": "a motto\n\n---> three ____",
       "answer": "mottoes",
-      "explain": "\n\n- motto -> mottoes\nMost nouns ending in o preceded by a consonant -> +es.",
+      "explain": "- motto -> mottoes\nMost nouns ending in o preceded by a consonant -> +es.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -30,7 +30,7 @@
     {
       "question": "a house \n\n---> six ___ ",
       "answer": "houses",
-      "explain": "\n\n- house -> houses",
+      "explain": "- house -> houses",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -39,7 +39,7 @@
     {
       "question": "a cherry\n\n---> five ___",
       "answer": "cherries",
-      "explain": "\n\n- cherry -> cherries\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "explain": "- cherry -> cherries\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -48,7 +48,7 @@
     {
       "question": "a clock \n\n---> eight ___ ",
       "answer": "clocks",
-      "explain": "\n\n- clock -> clocks",
+      "explain": "- clock -> clocks",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -57,7 +57,7 @@
     {
       "question": "a child \n\n---> three  ___ ",
       "answer": "children",
-      "explain": "\n\n- child -> children\n(irregular plural)",
+      "explain": "- child -> children\n(irregular plural)",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -66,7 +66,7 @@
     {
       "question": "a hero\n\n---> six ___",
       "answer": "heroes",
-      "explain": "\n\n- hero -> heroes\nMost nouns ending in o preceded by a consonant -> +es.",
+      "explain": "- hero -> heroes\nMost nouns ending in o preceded by a consonant -> +es.",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -75,7 +75,7 @@
     {
       "question": "a rose\n\n---> nine ___",
       "answer": "roses",
-      "explain": "\n\n- rose -> roses",
+      "explain": "- rose -> roses",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",
@@ -84,7 +84,7 @@
     {
       "question": "a knife\n\n---> seven ___",
       "answer": "knives",
-      "explain": "\n\n- knife -> knives\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
+      "explain": "- knife -> knives\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "5",

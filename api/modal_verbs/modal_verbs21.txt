@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": "A: Where's John?\nB: I'm not sure. He _________ in the kitchen.\n",
+            "question": "A: Where's John?\nB: I'm not sure. He _________ in the kitchen.",
             "a": "might be",
             "b": "can be",
             "c": "would be",
@@ -12,7 +12,7 @@
             "type": "2"
         },
         {
-            "question": "Kate wanted to have a dog, but her landlord _________ let her keep one in the flat.\n",
+            "question": "Kate wanted to have a dog, but her landlord _________ let her keep one in the flat.",
             "a": "shouldn't",
             "b": "wouldn't",
             "c": "needn't",
@@ -23,7 +23,7 @@
             "type": "2"
         },
         {
-            "question": "When I spoke to Anna yesterday, I promised that I ___ send her the information she wanted.\n",
+            "question": "When I spoke to Anna yesterday, I promised that I ___ send her the information she wanted.",
             "a": "would",
             "b": "must",
             "c": "will",
@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "question": "Haven't you finished writing your letter yet? You _________ it for two hours!\n",
+            "question": "Haven't you finished writing your letter yet? You _________ it for two hours!",
             "a": "must be writing",
             "b": "could have been writing",
             "c": "must have been writing",
@@ -45,7 +45,7 @@
             "type": "2"
         },
         {
-            "question": "The library ___ closed. Nobody's answering the phone.\n",
+            "question": "The library ___ closed. Nobody's answering the phone.",
             "a": "can't be",
             "b": "must be",
             "c": "needn't be",
@@ -56,7 +56,7 @@
             "type": "2"
         },
         {
-            "question": "I ___ pay any attention to what John has told you about Katie. He doesn't know her very well.\n",
+            "question": "I ___ pay any attention to what John has told you about Katie. He doesn't know her very well.",
             "a": "mustn't",
             "b": "shouldn't",
             "c": "couldn't",
@@ -67,7 +67,7 @@
             "type": "2"
         },
         {
-            "question": "I demanded that Paul ___ tell me the truth.\n",
+            "question": "I demanded that Paul ___ tell me the truth.",
             "a": "must",
             "b": "has to",
             "c": "should",
@@ -78,7 +78,7 @@
             "type": "2"
         },
         {
-            "question": "You ___ spill water on anything electrical, like televisions or CD players.\n",
+            "question": "You ___ spill water on anything electrical, like televisions or CD players.",
             "a": "needn't",
             "b": "couldn't",
             "c": "mustn't",
@@ -89,7 +89,7 @@
             "type": "2"
         },
         {
-            "question": "Sarah made a lot of food for her party, but her guests ate only about half of it. She ___ so much.\n",
+            "question": "Sarah made a lot of food for her party, but her guests ate only about half of it. She ___ so much.",
             "a": "couldn't have made",
             "b": "needn't have made",
             "c": "mustn't have made",
@@ -100,7 +100,7 @@
             "type": "2"
         },
         {
-            "question": "A friend tells you the name of a new restaurant, and she spells it for you. You don't write it all down, so you ask her: '___ you spell it again, please?'\n",
+            "question": "A friend tells you the name of a new restaurant, and she spells it for you. You don't write it all down, so you ask her: '___ you spell it again, please?'",
             "a": "Would",
             "b": "Should",
             "c": "Might",

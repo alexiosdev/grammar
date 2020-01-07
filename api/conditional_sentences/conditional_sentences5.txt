@@ -1,7 +1,7 @@
 {
 	"data": [
     {
-      "question": "If the doctor (come) ......... late he will open the surgery.\n",
+      "question": "If the doctor (come) ......... late he will open the surgery.",
       "a": "will come",
       "b": "comes",
       "answer": "2",
@@ -11,7 +11,7 @@
       "type": "2"
     },
     {
-      "question": "If Tom gets back earlier he (tell) .......... you about it.\n",
+      "question": "If Tom gets back earlier he (tell) .......... you about it.",
       "a": "will tell",
       "b": "tells",
       "answer": "1",
@@ -21,7 +21,7 @@
       "type": "2"
     },
     {
-      "question": "They will cure that illness if the government (provide) ......... them with the money.\n",
+      "question": "They will cure that illness if the government (provide) ......... them with the money.",
       "a": "provides",
       "b": "will provide",
       "answer": "1",
@@ -61,7 +61,7 @@
       "type": "2"
     },
     {
-      "question": "She (have to) ......... drive on the left if she is in Britain.\n",
+      "question": "She (have to) ......... drive on the left if she is in Britain.",
       "a": "have to",
       "b": "will have to",
       "answer": "2",
@@ -71,7 +71,7 @@
       "type": "2"
     },
     {
-      "question": "You won't be able to use the camera if you (not have) ......... the right plug.\n",
+      "question": "You won't be able to use the camera if you (not have) ......... the right plug.",
       "a": "won't have",
       "b": "don't have",
       "answer": "2",
@@ -81,7 +81,7 @@
       "type": "2"
     },
     {
-      "question": "Tom and Mary (not start) ......... work if they don't have the contract.\n",
+      "question": "Tom and Mary (not start) ......... work if they don't have the contract.",
       "a": "don't start",
       "b": "won't start",
       "answer": "2",
@@ -91,7 +91,7 @@
       "type": "2"
     },
     {
-      "question": "You (not catch) ......... any fish if you don't take a fishing rod.\n",
+      "question": "You (not catch) ......... any fish if you don't take a fishing rod.",
       "a": "don't catch",
       "b": "won't catch",
       "answer": "2",

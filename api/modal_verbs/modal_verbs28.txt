@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": " It ________ rain this evening. Why don't you take an umbrella?\n",
+            "question": " It ________ rain this evening. Why don't you take an umbrella?",
             "a": "could be        ",
             "b": "must ",
             "c": "might ",
@@ -13,7 +13,7 @@
             "type": "1"
         },
         {
-            "question": " ________ you help me with the homework?\n",
+            "question": " ________ you help me with the homework?",
             "a": "May ",
             "b": "Shall ",
             "c": "Should        ",
@@ -25,7 +25,7 @@
             "type": "1"
         },
         {
-            "question": " She hasn't eaten anything since yesterday. She ________ be really hungry.\n",
+            "question": " She hasn't eaten anything since yesterday. She ________ be really hungry.",
             "a": "might ",
             "b": "will ",
             "c": "must ",
@@ -37,7 +37,7 @@
             "type": "1"
         },
         {
-            "question": " I put my keys on the table, but now it's gone. Someone ________ have taken it.\n",
+            "question": " I put my keys on the table, but now it's gone. Someone ________ have taken it.",
             "a": "may ",
             "b": "had to ",
             "c": "should        ",
@@ -49,7 +49,7 @@
             "type": "1"
         },
         {
-            "question": " Daisy is reading her English test because she has a test tomorrow. She ________ be studying.\n",
+            "question": " Daisy is reading her English test because she has a test tomorrow. She ________ be studying.",
             "a": "will ",
             "b": "should        ",
             "c": "must ",
@@ -61,7 +61,7 @@
             "type": "1"
         },
         {
-            "question": " We ________ put the fish in the fridge before it spoils.\n",
+            "question": " We ________ put the fish in the fridge before it spoils.",
             "a": "had to ",
             "b": "may ",
             "c": "can ",
@@ -73,7 +73,7 @@
             "type": "1"
         },
         {
-            "question": " Mr. Brown is very rich. He ________ work hard for a living.\n",
+            "question": " Mr. Brown is very rich. He ________ work hard for a living.",
             "a": "mustn't        ",
             "b": "shouldn't     ",
             "c": "can't       ",
@@ -85,7 +85,7 @@
             "type": "1"
         },
         {
-            "question": " Tom has just got a new job. He ________ be very pleased.\n",
+            "question": " Tom has just got a new job. He ________ be very pleased.",
             "a": "might ",
             "b": "must ",
             "c": "should        ",
@@ -97,7 +97,7 @@
             "type": "1"
         },
         {
-            "question": " Tom panted his room black. It looks dark and dreary. He ________  have chosen another colour.\n",
+            "question": " Tom panted his room black. It looks dark and dreary. He ________  have chosen another colour.",
             "a": "should ",
             "b": "must ",
             "c": "could ",
@@ -109,7 +109,7 @@
             "type": "1"
         },
         {
-            "question": " ________ you carry this bag for me?\n",
+            "question": " ________ you carry this bag for me?",
             "a": "May ",
             "b": "Should        ",
             "c": "Will ",

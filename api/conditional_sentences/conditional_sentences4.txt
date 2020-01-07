@@ -1,7 +1,7 @@
 {
 	"data": [
     {
-      "question": "If you shop at large discount stores, you (hurt) ......... the small local merchants.\n",
+      "question": "If you shop at large discount stores, you (hurt) ......... the small local merchants.",
       "a": "will hurt",
       "b": "hurt",
       "answer": "1",
@@ -11,7 +11,7 @@
       "type": "2"
     },
     {
-      "question": "If he (continue) ......... to work hard, he'll be the class valedictorian.\n",
+      "question": "If he (continue) ......... to work hard, he'll be the class valedictorian.",
       "a": "continues",
       "b": "will continue",
       "answer": "1",
@@ -21,7 +21,7 @@
       "type": "2"
     },
     {
-      "question": "If little Chris (play) .......... in the mud, he will get dirty.\n",
+      "question": "If little Chris (play) .......... in the mud, he will get dirty.",
       "a": "will play",
       "b": "plays",
       "answer": "2",
@@ -31,7 +31,7 @@
       "type": "2"
     },
     {
-      "question": "If the cook (not care) ........... for the dinner, she will burn it.\n",
+      "question": "If the cook (not care) ........... for the dinner, she will burn it.",
       "a": "doesn't care",
       "b": "won't care",
       "answer": "1",
@@ -41,7 +41,7 @@
       "type": "2"
     },
     {
-      "question": "If they (not get ) ......... up early, they won't go jogging.\n",
+      "question": "If they (not get ) ......... up early, they won't go jogging.",
       "a": "won't get",
       "b": "don't get",
       "answer": "2",
@@ -51,7 +51,7 @@
       "type": "2"
     },
     {
-      "question": "If the children (not brush) .......... their teeth, they will have a lot of cavities.\n",
+      "question": "If the children (not brush) .......... their teeth, they will have a lot of cavities.",
       "a": "don't brush",
       "b": "won't brush",
       "answer": "1",
@@ -61,7 +61,7 @@
       "type": "2"
     },
     {
-      "question": "He will have sore eyes if he (spend) ......... too much time working on the computer.\n",
+      "question": "He will have sore eyes if he (spend) ......... too much time working on the computer.",
       "a": "will spend",
       "b": "spends",
       "answer": "2",
@@ -71,7 +71,7 @@
       "type": "2"
     },
     {
-      "question": "If he (not use) ......... light colours, his picture will be too dark.\n",
+      "question": "If he (not use) ......... light colours, his picture will be too dark.",
       "a": "won't use",
       "b": "doesn't use",
       "answer": "2",
@@ -81,7 +81,7 @@
       "type": "2"
     },
     {
-      "question": "If he (not write) ........... a letter to Santa Claus, he won't get a present.\n",
+      "question": "If he (not write) ........... a letter to Santa Claus, he won't get a present.",
       "a": "doesn't write",
       "b": "won't write",
       "answer": "1",
@@ -91,7 +91,7 @@
       "type": "2"
     },
     {
-      "question": "If the pharmacy (order) ......... a lot of medicines, it will bring more customers.\n",
+      "question": "If the pharmacy (order) ......... a lot of medicines, it will bring more customers.",
       "a": "orders",
       "b": "will order",
       "answer": "1",

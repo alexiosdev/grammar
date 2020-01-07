@@ -111,7 +111,7 @@
       "c": "much too late",
       "d": "late too much",
       "answer": "3",
-      "explain": "- much too + adjective. Ex: much too late/big/old etc\n",
+      "explain": "- much too + adjective. Ex: much too late/big/old etc",
       "category": "1",
       "subcategorylv1": "6",
       "subcategorylv2": "3",

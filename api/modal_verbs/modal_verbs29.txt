@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": " You ________ throw litter on the streets.\n",
+            "question": " You ________ throw litter on the streets.",
             "a": "mustn't ",
             "b": "couldn't      ",
             "c": "needn't       ",
@@ -13,7 +13,7 @@
             "type": "1"
         },
         {
-            "question": " My mother permitted me to go out at night. She said,\" You ________  go out tonight\"\n",
+            "question": " My mother permitted me to go out at night. She said,\" You ________  go out tonight\"",
             "a": "may ",
             "b": "have to        ",
             "c": "must ",
@@ -25,7 +25,7 @@
             "type": "1"
         },
         {
-            "question": " They can type. They ________ type.\n",
+            "question": " They can type. They ________ type.",
             "a": "learn how to    ",
             "b": "are able to    ",
             "c": "know how to ",
@@ -37,7 +37,7 @@
             "type": "1"
         },
         {
-            "question": " He advised me to take an English course. I ________ take it early.\n",
+            "question": " He advised me to take an English course. I ________ take it early.",
             "a": "should ",
             "b": "shall ",
             "c": "will ",
@@ -49,7 +49,7 @@
             "type": "1"
         },
         {
-            "question": " I'd rather ________ in the field than ________ home.\n",
+            "question": " I'd rather ________ in the field than ________ home.",
             "a": "to work/ to stay ",
             "b": "work/ stay",
             "c": "working/ staying ",
@@ -61,7 +61,7 @@
             "type": "1"
         },
         {
-            "question": " As an orphan, he ________ earn his living alone.\n",
+            "question": " As an orphan, he ________ earn his living alone.",
             "a": "have to ",
             "b": "has had to    ",
             "c": "ought to       ",
@@ -73,7 +73,7 @@
             "type": "1"
         },
         {
-            "question": " They prayed that their daughter ________ be lucky again.\n",
+            "question": " They prayed that their daughter ________ be lucky again.",
             "a": "may ",
             "b": "will ",
             "c": "could ",
@@ -85,7 +85,7 @@
             "type": "1"
         },
         {
-            "question": " He ________ all that money, so she could save some.\n",
+            "question": " He ________ all that money, so she could save some.",
             "a": "didn't need to spend ",
             "b": "needn't have spent",
             "c": "shouldn't spend ",
@@ -97,7 +97,7 @@
             "type": "1"
         },
         {
-            "question": " He spent all that money last week. He ________ so much.\n",
+            "question": " He spent all that money last week. He ________ so much.",
             "a": "didn't need to spend ",
             "b": "shouldn't spend",
             "c": "needn't have spent ",
@@ -109,7 +109,7 @@
             "type": "1"
         },
         {
-            "question": " He had to work hard so that he ________ his family.\n",
+            "question": " He had to work hard so that he ________ his family.",
             "a": "may support    ",
             "b": "supported     ",
             "c": "can support   ",

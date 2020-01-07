@@ -1,7 +1,7 @@
 {
 	"data": [
         {
-            "question": "Your boss wants you to give him some work by the end of the day. You need more time. You ask: '___ I give it to you tomorrow?'\n",
+            "question": "Your boss wants you to give him some work by the end of the day. You need more time. You ask: '___ I give it to you tomorrow?'",
             "a": "Could",
             "b": "Would",
             "c": "Should",
@@ -12,7 +12,7 @@
             "type": "2"
         },
         {
-            "question": "I don't think the government ___ a main road through our village.\n",
+            "question": "I don't think the government ___ a main road through our village.",
             "a": "must build",
             "b": "might build",
             "c": "should build",
@@ -23,7 +23,7 @@
             "type": "2"
         },
         {
-            "question": "Tom ___ the CDs from the shop. That was a bad thing to do.\n",
+            "question": "Tom ___ the CDs from the shop. That was a bad thing to do.",
             "a": "shouldn't have stolen",
             "b": "mustn't have stolen",
             "c": "shouldn't be stealing",
@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!\n",
+            "question": "It's time ___ the winner of the award for best actress. The winner is – Laura Mitchell!",
             "a": "I announce",
             "b": "I should announce",
             "c": "to announce",
@@ -45,7 +45,7 @@
             "type": "2"
         },
         {
-            "question": "It's time ___ next month's meetings. We need to send out the programme soon.\n",
+            "question": "It's time ___ next month's meetings. We need to send out the programme soon.",
             "a": "we plan",
             "b": "for us to plan",
             "c": "we must plan",
@@ -56,7 +56,7 @@
             "type": "2"
         },
         {
-            "question": "There's nothing to do at home. I ___ go for a walk.\n",
+            "question": "There's nothing to do at home. I ___ go for a walk.",
             "a": "might as well",
             "b": "can't",
             "c": "needn't",
@@ -67,7 +67,7 @@
             "type": "2"
         },
         {
-            "question": "Don't leave your glasses on the chair. Someone ___ sit on them.\n",
+            "question": "Don't leave your glasses on the chair. Someone ___ sit on them.",
             "a": "should",
             "b": "may",
             "c": "must",
@@ -78,7 +78,7 @@
             "type": "2"
         },
         {
-            "question": "If you're a member of the sports centre, you _________ pay to use the tennis courts. They're free to members.\n",
+            "question": "If you're a member of the sports centre, you _________ pay to use the tennis courts. They're free to members.",
             "a": "can't",
             "b": "mustn't",
             "c": "don't have to",
@@ -89,7 +89,7 @@
             "type": "2"
         },
         {
-            "question": "___ know a lot about animals for this job?\n",
+            "question": "___ know a lot about animals for this job?",
             "a": "Are you able to",
             "b": "Could you",
             "c": "Do you have to",
@@ -100,7 +100,7 @@
             "type": "2"
         },
         {
-            "question": "You _________ eat a lot just before you go swimming. If you do, you might feel ill.\n",
+            "question": "You _________ eat a lot just before you go swimming. If you do, you might feel ill.",
             "a": "mustn't",
             "b": "don't have to",
             "c": "needn't",

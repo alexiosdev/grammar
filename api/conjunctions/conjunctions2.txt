@@ -85,7 +85,7 @@
       "c": "that",
       "d": "it's",
       "answer": "1",
-      "explain": "\n\n- How: (+ adjective/adverb) used to emphasize the quality you are mentioning",
+      "explain": "- How: (+ adjective/adverb) used to emphasize the quality you are mentioning",
       "category": "1",
       "subcategorylv1": "40",
       "subcategorylv2": "2",

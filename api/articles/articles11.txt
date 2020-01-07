@@ -7,7 +7,7 @@
       "c": "the",
       "d": "-",
       "answer": "3",
-      "explain": "\n- Some places and countries, and all rivers and oceans, have the as part of their name\n",
+      "explain": "\n- Some places and countries, and all rivers and oceans, have the as part of their name",
       "category": "1",
       "subcategorylv1": "1",
       "subcategorylv2": "11",

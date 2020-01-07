@@ -111,7 +111,7 @@
       "c": "a lot more excited than",
       "d": "much exciting",
       "answer": "1",
-      "explain": ".\n- Much/far/ rather/a little/a bit/ a lot + adj: to emphasize adj\n- Comparative: adj + er (short adj)/ more adj (long adj)\n",
+      "explain": ".\n- Much/far/ rather/a little/a bit/ a lot + adj: to emphasize adj\n- Comparative: adj + er (short adj)/ more adj (long adj)",
       "category": "1",
       "subcategorylv1": "7",
       "subcategorylv2": "10",
