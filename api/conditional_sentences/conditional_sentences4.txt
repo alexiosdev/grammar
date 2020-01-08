@@ -8,7 +8,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If he (continue) ......... to work hard, he'll be the class valedictorian.",
@@ -18,7 +18,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If little Chris (play) .......... in the mud, he will get dirty.",
@@ -28,7 +28,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If the cook (not care) ........... for the dinner, she will burn it.",
@@ -38,7 +38,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If they (not get ) ......... up early, they won't go jogging.",
@@ -48,7 +48,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If the children (not brush) .......... their teeth, they will have a lot of cavities.",
@@ -58,7 +58,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "He will have sore eyes if he (spend) ......... too much time working on the computer.",
@@ -68,7 +68,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If he (not use) ......... light colours, his picture will be too dark.",
@@ -78,7 +78,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If he (not write) ........... a letter to Santa Claus, he won't get a present.",
@@ -88,7 +88,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If the pharmacy (order) ......... a lot of medicines, it will bring more customers.",
@@ -98,7 +98,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "4",
-      "type": "2"
+      "type": "3"
     }
   ]
 }

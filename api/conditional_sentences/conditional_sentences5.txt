@@ -8,7 +8,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If Tom gets back earlier he (tell) .......... you about it.",
@@ -18,7 +18,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "They will cure that illness if the government (provide) ......... them with the money.",
@@ -28,7 +28,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "If I (be) .......... right, they won't be able to pay all their bills.",
@@ -38,7 +38,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "He will see the animals in the zoo if they (go) .......... there.",
@@ -48,7 +48,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "They (not be able) ........... to climb the mountain if they don't have any ropes.",
@@ -58,7 +58,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "She (have to) ......... drive on the left if she is in Britain.",
@@ -68,7 +68,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "You won't be able to use the camera if you (not have) ......... the right plug.",
@@ -78,7 +78,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "Tom and Mary (not start) ......... work if they don't have the contract.",
@@ -88,7 +88,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     },
     {
       "question": "You (not catch) ......... any fish if you don't take a fishing rod.",
@@ -98,7 +98,7 @@
       "category": "1",
       "subcategorylv1": "41",
       "subcategorylv2": "5",
-      "type": "2"
+      "type": "3"
     }
   ]
 }
