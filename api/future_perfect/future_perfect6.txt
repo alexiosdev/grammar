@@ -21,7 +21,7 @@
         {
             "question": "If I continue with my diet I ___ (lose) 10 kilos by the end of the month.",
             "answer": "will have lost",
-            "explain": " Correct.\n\nFuture perfect:\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the end of the month\n",
+            "explain": " Correct.\n\nFuture perfect:\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the end of the month",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "6",
@@ -30,7 +30,7 @@
         {
             "question": "By the end of my university course I ___ (attend) 1,200 lectures.",
             "answer": "will have attended",
-            "explain": "Future perfect: \"will have attended\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n\n",
+            "explain": "Future perfect: \"will have attended\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "6",
@@ -48,7 +48,7 @@
         {
             "question": "By the time that he leaves school his parents ___ (spend) £25,000 on his education.",
             "answer": "will have spent",
-            "explain": "Future perfect: \"will have spent\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n",
+            "explain": "Future perfect: \"will have spent\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "6",

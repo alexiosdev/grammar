@@ -21,7 +21,7 @@
     {
       "question": "a box \n\n---> seven ___ ",
       "answer": "boxes",
-      "explain": "- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es\n",
+      "explain": "- The plural of nouns is usually formed by adding - s to a singular noun\n- Nouns ending in s, z, x, sh, and ch form the plural by adding - es",
       "category": "1",
       "subcategorylv1": "4",
       "subcategorylv2": "1",

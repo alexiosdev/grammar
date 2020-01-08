@@ -57,7 +57,7 @@
         {
             "question": "By next winter they ___ (build) four houses in that field.",
             "answer": "will have built",
-            "explain": "Future perfect: \"will have built\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by next winter\n\n",
+            "explain": "Future perfect: \"will have built\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by next winter\n",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "5",
@@ -75,7 +75,7 @@
         {
             "question": "At the rate he is going he ___ (spend) all his money by the time he is twenty-one.",
             "answer": "will have spent",
-            "explain": "Future perfect: \"will have spent\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n",
+            "explain": "Future perfect: \"will have spent\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "5",

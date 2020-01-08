@@ -39,7 +39,7 @@
         {
             "question": "A: I'm going to Hyde Park to hear the people making speeches.\nB: You'll be too late. By the time you get there they ___ (finish) their speeches and everybody have gone home.",
             "answer": "will have finished",
-            "explain": "Future perfect: \"will have finished\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n\n",
+            "explain": "Future perfect: \"will have finished\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time\n",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "7",
@@ -57,7 +57,7 @@
         {
             "question": "By the end of the month 5,000 people ___ (see) this exhibition.",
             "answer": "will have seen",
-            "explain": " Correct.\n\nFuture perfect:\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the end of the month\n",
+            "explain": " Correct.\n\nFuture perfect:\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the end of the month",
             "category": "1",
             "subcategorylv1": "4",
             "subcategorylv2": "7",
