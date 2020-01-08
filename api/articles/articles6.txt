@@ -1,5 +1,5 @@
 {
- 	"data": [
+ "data": [
     {
       "question": "Colin wanted to go to college because he felt that better qualifications would help him get ______ better job.",
       "a": "a",
@@ -130,5 +130,5 @@
       "subcategorylv2": "6",
       "type": "1"
     }
-  ]
+  ] 
 }

@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "You ___ flu because you haven't got a temperature. I think you've got a cold.",
+            "a": "must have",
+            "b": "can't have",
+            "c": "should have",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "I can hear the television in Joe's room. He ___ the athletics on the satellite channel. I know he wanted to watch them.",
+            "a": "must be watching",
+            "b": "can't be watching",
+            "c": "mustn't be watching",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "A friend arrives at your flat. He's very hot and thirsty. You ask: '___ you like a glass of water?'",
+            "a": "Would",
+            "b": "Could",
+            "c": "Should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "Your boss wants you to give him some work by the end of the day. You need more time. You ask: '___ I give it to you tomorrow?'",
+            "a": "Could",
+            "b": "Would",
+            "c": "Should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "A: I wonder why that man is walking up and down our street.\nB: He ___ for someone.",
+            "a": "can be looking",
+            "b": "may be looking",
+            "c": "can't be looking",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "A: Rebecca didn't say much last night, did she?\nB: No. She ___ tired. I think she's working hard at the moment.",
+            "a": "can't have been",
+            "b": "should have been",
+            "c": "might have been",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "If you're a member of the sports centre, you ___ pay to use the tennis courts. They're free to members.",
+            "a": "can't",
+            "b": "mustn't",
+            "c": "don't have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "Passengers ___ talk to the driver while he or she is driving.",
+            "a": "do not have to",
+            "b": "could not",
+            "c": "must not",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "A: When Sarah came in, I was reading her diary. She was really angry with me.\nB: I'm not surprised! You ___ it!",
+            "a": "shouldn't have been reading",
+            "b": "mustn't have been reading",
+            "c": "may not have been reading",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        },
+        {
+            "question": "Mark's on holiday this week, but he ___ back at work on Monday.",
+            "a": "ought be",
+            "b": "ought to have been",
+            "c": "ought to be",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "14",
+            "type": "2"
+        }
+    ]
+}

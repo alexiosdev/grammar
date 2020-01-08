@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "a tooth \n\n---> four ___ ",
+      "answer": "teeth",
+      "explain": "- tooth -> teeth\n(irregular plural)",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a name\n\n---> six ___",
+      "answer": "names",
+      "explain": "- name -> names",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a toy \n\n---> four ___ ",
+      "answer": "toys",
+      "explain": "- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a bag\n\n---> five ___",
+      "answer": "bags",
+      "explain": "- bag -> bags",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a buzz\n\n---> five ___",
+      "answer": "buzzes",
+      "explain": "- buzz -> buzzes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a toy\n\n---> five ___",
+      "answer": "toys",
+      "explain": "- toy -> toys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a nose\n\n---> seven ___",
+      "answer": "noses",
+      "explain": "- nose -> noses",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a wife\n\n---> two ____",
+      "answer": "wives",
+      "explain": "- wife -> wives\nSome nouns ending in f or fe -> changing f or fe to - ves. ",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a fox \n\n---> nine ___ ",
+      "answer": "foxes",
+      "explain": "- fox -> foxes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    },
+    {
+      "question": "a family \n\n---> two ___ ",
+      "answer": "families",
+      "explain": "- family -> families\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "2",
+      "type": "4"
+    }
+  ]
+}

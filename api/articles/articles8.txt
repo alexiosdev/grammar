@@ -1,5 +1,5 @@
 {
-  "data": [
+ "data": [
     {
       "question": "The party had to stop because the neighbours complained that ______ music was too loud.",
       "a": "a",
@@ -59,7 +59,7 @@
       "c": "the",
       "d": "-",
       "answer": "1",
-      "explain": "\n- A:  used to show that you are referring to a general type of person or thing and not a specific person or thing\n",
+      "explain": "\n- A:  used to show that you are referring to a general type of person or thing and not a specific person or thing",
       "category": "1",
       "subcategorylv1": "1",
       "subcategorylv2": "8",
@@ -130,5 +130,5 @@
       "subcategorylv2": "8",
       "type": "1"
     }
-  ]
+  ] 
 }

@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+            "question": "You ________ heard that explosion.",
+            "a": "ought ",
+            "b": "must have",
+            "c": "should ",
+            "d": "must",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "We've got lots and lots of food. You ________ go shopping today.",
+            "a": "needn't ",
+            "b": "mustn't",
+            "c": "shouldn't ",
+            "d": "can't",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "Do you think we _______ tell your mother?",
+            "a": "should ",
+            "b": "ought",
+            "c": "oughtn't ",
+            "d": "did",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "You smoke too much. You ________ either cut down or stop completely.",
+            "a": "ought ",
+            "b": "might",
+            "c": "may ",
+            "d": "should",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "What car are you going to buy?' 'I don't know yet but I _______ buy an Opel.'",
+            "a": "might ",
+            "b": "can",
+            "c": "ought ",
+            "d": "should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "He got drowned because he _______ swim.",
+            "a": "can't ",
+            "b": "couldn't",
+            "c": "shoudn't ",
+            "d": "mustn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "Children, you _______ speak English in the French class.",
+            "a": "oughtn't ",
+            "b": "hadn't",
+            "c": "haven't ",
+            "d": "mustn't",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "You've been working hard. You ________ be tired.",
+            "a": "might ",
+            "b": "must",
+            "c": "ought ",
+            "d": "need",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "You _______ open you mouth when you are eating.",
+            "a": "can't ",
+            "b": "oughtn't",
+            "c": "mustn't ",
+            "d": "haven't to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        },
+        {
+            "question": "I think you _______ to stop smoking.",
+            "a": "ought ",
+            "b": "should",
+            "c": "could ",
+            "d": "might",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "10",
+            "type": "1"
+        }
+    ]
+}

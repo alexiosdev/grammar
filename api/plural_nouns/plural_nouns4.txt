@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "a story\n\n---> two ___",
+      "answer": "stories",
+      "explain": "- story -> stories\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a pen\n\n---> ten ___",
+      "answer": "pens",
+      "explain": "- pen -> pens",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a sportsman \n\n---> two ___ ",
+      "answer": "sportsmen",
+      "explain": "- sportsman -> sportsmen\n(irregular plural)",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a portfolio\n\n---> seven ____",
+      "answer": "portfolios",
+      "explain": "- portfolio -> portfolios\nMost nouns ending in o preceded by a vowel -> +s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a pencil\n\n---> ten ___",
+      "answer": "pencils",
+      "explain": "- pencil -> pencils",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a hat\n\n---> five ___",
+      "answer": "hats",
+      "explain": "- hat -> hats",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a monkey \n\n---> two ___ ",
+      "answer": "monkeys",
+      "explain": "- monkey -> monkeys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a folio\n\n---> three ___",
+      "answer": "folios",
+      "explain": "- folio -> folios\nMost nouns ending in o preceded by a vowel -> +s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a moss\n\n---> two ___",
+      "answer": "mosses",
+      "explain": "- moss -> mosses\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    },
+    {
+      "question": "a valley\n\n---> four ____",
+      "answer": "valleys",
+      "explain": "- valley -> valleys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "4",
+      "type": "4"
+    }
+  ]
+}

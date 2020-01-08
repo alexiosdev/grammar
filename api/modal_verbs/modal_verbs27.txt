@@ -1,0 +1,117 @@
+{
+	"data": [
+        {
+            "question": "A friend is going to the market. You need some fruit, so you ask him: 'Do you think you ___ get me a kilo of oranges and some bananas, please?'",
+            "a": "can",
+            "b": "could",
+            "c": "may",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "A: What shall I wear for Anna's party?\nB: You _________ wear your green dress, or the blue one. They're both nice.\nA: OK. I'll try them on.",
+            "a": "could have worn",
+            "b": "must wear",
+            "c": "could wear",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "Why didn't you tell me that you wanted a sandwich? I ___ one for you when I made mine.",
+            "a": "can't have made",
+            "b": "could have made",
+            "c": "could make",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "Amy ___ in her diary to see if she could go to the cinema with Jack on Tuesday. She already knew that she wasn't free then.",
+            "a": "didn't need to look",
+            "b": "needn't look",
+            "c": "mustn't look",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "I ___ be late for the train. I don't want to miss it.",
+            "a": "needn't",
+            "b": "mustn't",
+            "c": "don't have to",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "No one knew Sam's birthday was last week. He ___ anyone.",
+            "a": "must have told",
+            "b": "needn't have told",
+            "c": "can't have told",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": "I can hear the television in Joe's room. He ___ the athletics on the satellite channel. I know he wanted to watch them.",
+            "a": "must be watching",
+            "b": "can't be watching",
+            "c": "mustn't be watching",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": " When my father was young, he ________ work in the garden for long hours.",
+            "a": "can ",
+            "b": "could ",
+            "c": "will ",
+            "d": "should",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": " He ________ have committed the crime because he was with me that day.",
+            "a": "mustn't ",
+            "b": "shouldn't     ",
+            "c": "won't ",
+            "d": "couldn't",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        },
+        {
+            "question": " Since we have to be there by 30, we ________ take a taxi.",
+            "a": "had better       ",
+            "b": "may ",
+            "c": "ought ",
+            "d": "are able to",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "27",
+            "type": "1"
+        }
+    ]
+}

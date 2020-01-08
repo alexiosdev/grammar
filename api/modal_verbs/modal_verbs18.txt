@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "Jack ___ in that team. It's for boys aged 15 to 18, and he's 20. We must tell him when the match finishes.",
+            "a": "couldn't be playing",
+            "b": "shouldn't be playing",
+            "c": "needn't play",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "We were badly hurt in a car crash a month ago. We ___ our seat belts.",
+            "a": "could have been wearing",
+            "b": "must have been wearing",
+            "c": "ought to have been wearing",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "I'm sorry, but you ___ sit there. That table's reserved.",
+            "a": "couldn't",
+            "b": "wouldn't",
+            "c": "can't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "Tom spent a lot of time working on his bike but he ___ repair it. So he had to ask Greg to help him.",
+            "a": "couldn't",
+            "b": "managed to",
+            "c": "was able to",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "John knew there was something wrong with his car but he ___ take it to the garage. He couldn't afford to pay for any repairs.",
+            "a": "mustn't",
+            "b": "won't",
+            "c": "wouldn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "Kate wanted to have a dog, but her landlord ___ let her keep one in the flat.",
+            "a": "shouldn't",
+            "b": "wouldn't",
+            "c": "needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "Kate ___ 35. She looks much younger than that.",
+            "a": "mustn't be",
+            "b": "can't be",
+            "c": "needn't be",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "The new mirror in Emma's house looks very nice. She ___ it recently.",
+            "a": "can't have bought",
+            "b": "must be buying",
+            "c": "must have bought",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "We booked a table in the restaurant because we thought it would be full. But when we got there, it was almost empty. We ___ a table at all.",
+            "a": "mustn't have booked",
+            "b": "needn't have booked",
+            "c": "can't have booked",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        },
+        {
+            "question": "You ___ get some rest. You've been working very hard today and you look really tired.",
+            "a": "may",
+            "b": "needn't",
+            "c": "must",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "18",
+            "type": "2"
+        }
+    ]
+}

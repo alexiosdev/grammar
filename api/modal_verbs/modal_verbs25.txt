@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "I'm sorry, but you ___ sit there. That table's reserved.",
+            "a": "couldn't",
+            "b": "wouldn't",
+            "c": "can't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "Sue used to ___ speak Arabic fluently, but she's forgotten a lot of it now.",
+            "a": "be able to",
+            "b": "could",
+            "c": "can",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "The coach promised that Paul ___ play in the next match, so Paul was delighted.",
+            "a": "would",
+            "b": "must",
+            "c": "can",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "I'm glad Helen didn't ask me for advice about her boyfriend. I ___ what to say.",
+            "a": "couldn't have known",
+            "b": "wouldn't have known",
+            "c": "can't have known",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "John knew there was something wrong with his car but he ___ take it to the garage. He couldn't afford to pay for any repairs.",
+            "a": "mustn't",
+            "b": "won't",
+            "c": "wouldn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "I don't think you ___ eat those wild mushrooms. They could be poisonous.",
+            "a": "should",
+            "b": "must",
+            "c": "might",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "I bought a jacket for £60 last month, and now the same jacket is in the sale for £30! I ___ for the sale.",
+            "a": "should wait",
+            "b": "should have waited",
+            "c": "should have been waiting",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "If you need a car to collect your furniture, I ___ lend you mine.",
+            "a": "was able to",
+            "b": "managed to",
+            "c": "can",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "Lucy fell off a ladder while she was painting her flat. She broke her leg but luckily she ___ get to the phone and call an ambulance.",
+            "a": "could",
+            "b": "was able to",
+            "c": "should",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        },
+        {
+            "question": "Mark ___ bring a map with him. I don't know how to get to Dan's house.",
+            "a": "would",
+            "b": "had better",
+            "c": "had better to",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "25",
+            "type": "2"
+        }
+    ]
+}

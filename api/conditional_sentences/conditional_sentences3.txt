@@ -1,0 +1,114 @@
+{
+	"data": [
+    {
+      "question": "If share prices (drop) ......... ...., we will lose our money.",
+      "a": "drop",
+      "b": "will drop",
+      "c": "is dropping",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "If he (come) .......... before ten, we will meet him at the station.",
+      "a": "is coming",
+      "b": "wil come",
+      "c": "comes",
+      "answer": "3",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "If you (eat) ........... an apple every day, you'll be very healthy.",
+      "a": "eat",
+      "b": "will eat",
+      "c": "are eating",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "If we (not protect) .......... the elephant, it will become extinct.",
+      "a": "don't protect",
+      "b": "won't protect",
+      "c": "aren't protecting",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "She (look) ........... completely different if she cuts her hair.",
+      "a": "look",
+      "b": "will look",
+      "c": "is looking",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "You will pay a higher insurance if you (buy) .......... a sports car.",
+      "a": "buy",
+      "b": "will buy",
+      "c": "are buying",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "You (be able).......... to see better if you turn on the lamp.",
+      "a": "are able",
+      "b": "will be able",
+      "c": "are being",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "You will get heart disease if you (eat)......... too much meat.",
+      "a": "eat",
+      "b": "will eat",
+      "c": "are eating",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "If you (not put) ........... so much sugar in your coffee, you won't put on so much weight.",
+      "a": "don't put",
+      "b": "won't put",
+      "c": "aren't putting",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    },
+    {
+      "question": "If a deer (get) ......... into your garden, it will eat all your plants.",
+      "a": "gets",
+      "b": "will get",
+      "c": "is getting",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "3",
+      "type": "2"
+    }
+  ]
+}

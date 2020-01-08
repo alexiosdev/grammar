@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "a city\n\n---> six ___",
+      "answer": "cities",
+      "explain": "- city -> cities\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a nose \n\n---> seven ___ ",
+      "answer": "noses",
+      "explain": "- nose -> noses",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a bag \n\n---> five ___ ",
+      "answer": "bags",
+      "explain": "- bag -> bags",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a buffalo\n\n---> two ___",
+      "answer": "buffaloes",
+      "explain": "- buffalo -> buffaloes\nMost nouns ending in o preceded by a consonant -> +es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a name \n\n---> six ___ ",
+      "answer": "names",
+      "explain": "- name -> names",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a girl \n\n---> ten ___ ",
+      "answer": "girls",
+      "explain": "- girl -> girls",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a pony\n\n---> two ___",
+      "answer": "ponies",
+      "explain": "- pony -> ponies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a pencil \n\n---> eight ___ ",
+      "answer": "pencils",
+      "explain": "- pencil -> pencils",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a baby \n\n---> four ___ ",
+      "answer": "babies",
+      "explain": "- baby -> babies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    },
+    {
+      "question": "a lady\n\n---> ten ___",
+      "answer": "ladies",
+      "explain": "- lady -> ladies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "6",
+      "type": "4"
+    }
+  ]
+}

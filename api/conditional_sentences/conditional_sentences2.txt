@@ -1,0 +1,114 @@
+{
+	"data": [
+    {
+      "question": "If you (not do) .......... anything really bad, your job here will be quite safe.",
+      "a": "won't do",
+      "b": "don't do",
+      "c": "are not doing",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "If you take my advice, you (not have) ........... problems any more.",
+      "a": "won't have",
+      "b": "don't have",
+      "c": "aren't having",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "I'm sure that if I talk to him sweetly enough he (hold) ......... on and not look elsewhere.",
+      "a": "holds",
+      "b": "will hold",
+      "c": "is holding",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "So if I don't hear from you, I (assume) ......... everything is fine.",
+      "a": "will assume",
+      "b": "assume",
+      "c": "is assuming",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "I'll only call you if I think there (be) ......... a problem.",
+      "a": "will be",
+      "b": "is",
+      "c": "is being",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "I (be) .......... very pleased if you make it.",
+      "a": "will be",
+      "b": "am",
+      "c": "am being",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "If the plan (succeed) ......... you will make a profit.",
+      "a": "will succeed",
+      "b": "succeeds",
+      "c": "is succeeding",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "If he (not get) ........... a big order he will go bankrupt.",
+      "a": "won't get",
+      "b": "doesn't get",
+      "c": "isn't getting",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "I (bring) .......... my laptop if we have to look at the documents.",
+      "a": "bring",
+      "b": "will bring",
+      "c": "am bringing",
+      "answer": "2",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    },
+    {
+      "question": "If I read this manual, I (not make) .......... any mistakes.",
+      "a": "won't make",
+      "b": "don't make",
+      "c": "am not making",
+      "answer": "1",
+      "category": "1",
+      "subcategorylv1": "41",
+      "subcategorylv2": "2",
+      "type": "2"
+    }
+  ]
+}

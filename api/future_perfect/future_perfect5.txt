@@ -1,0 +1,94 @@
+{
+	"data": [
+        {
+            "question": "In a fortnight's time we ___ (take) our exam.",
+            "answer": "will have taken",
+            "explain": "Future perfect: \"will have taken\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: in fortnight's time",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "I ___ (finish) this book by tomorrow evening.",
+            "answer": "will have finished",
+            "explain": "Future perfect: \"will have finished\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by tomorrow evening",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "By this time tomorrow we ___ (have) our injections.",
+            "answer": "will have had",
+            "explain": "Future perfect: \"will have had\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by this time tomorrow",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "By the end of next year I ___ (be) here twenty-five years.",
+            "answer": "will have been",
+            "explain": "Future perfect: \"will have been\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the end of next year",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "I'll still be here next summer but Tom ___ (leave).",
+            "answer": "will have left",
+            "explain": "Future perfect: \"will have left\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: (by the time) next summer",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "I ___ (finish) this job in twenty minutes.",
+            "answer": "will have finished",
+            "explain": "Future perfect: \"will have finished\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: in twenty minutes",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "By next winter they ___ (build) four houses in that field.",
+            "answer": "will have built",
+            "explain": "Future perfect: \"will have built\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by next winter\n",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "When we reach Valparaiso we ___ (sail) all round the world.",
+            "answer": "will have sailed",
+            "explain": "Future perfect: \"will have sailed\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: when we reach Valparaiso (imply that by the time we are at Valparaiso)",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "At the rate he is going he ___ (spend) all his money by the time he is twenty-one.",
+            "answer": "will have spent",
+            "explain": "Future perfect: \"will have spent\"\n+ Expresses the idea that something will occur before another action in the future. It can also show that something will happen before a specific time in the future\n+ Structure: S+ will/shall +have+PP\n+ Sign word: by the time",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        },
+        {
+            "question": "By this time next year I ___ (save) £250.",
+            "answer": "will have saved",
+            "explain": "Future perfect:  \"will have saved\"",
+            "category": "1",
+            "subcategorylv1": "4",
+            "subcategorylv2": "5",
+            "type": "4"
+        }
+    ]
+}

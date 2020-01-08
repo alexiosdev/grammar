@@ -1,0 +1,116 @@
+{
+	"data": [
+        {
+            "question": " You ought ________ the movie.",
+            "a": "see",
+            "b": "to see",
+            "c": "seeing",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": "  I ________ work yesterday.",
+            "a": "had not to",
+            "b": "didn't had to",
+            "c": "didn't have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " You ________ eat the whole meal.",
+            "a": "must not to",
+            "b": "don't have to",
+            "c": "have not to",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": "  Would you please ________ me that book?",
+            "a": "to give",
+            "b": "giving",
+            "c": "give",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " You ________ more careful.",
+            "a": "ought to been",
+            "b": "ought to",
+            "c": "ought to be",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " It ________ snow tomorrow.",
+            "a": "can to",
+            "b": "may",
+            "c": "must",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " He ________ you with your homework.",
+            "a": "can help",
+            "b": "can helps",
+            "c": "can to help.",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " You ________ her.",
+            "a": "should to",
+            "b": "should ask",
+            "c": "should asking",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " The lady from Quebec ____ French.",
+            "a": "   cans speak",
+            "b": "   can speaks",
+            "c": "   cans speaks",
+            "d": "   can speak",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        },
+        {
+            "question": " If she has enough time, the mechanic _______ your car by tonight.",
+            "a": "   can fixes",
+            "b": "   cans fix",
+            "c": "   can fix",
+            "d": "   could fix",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "5",
+            "type": "1"
+        }
+    ]
+}

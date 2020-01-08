@@ -1,31 +1,31 @@
 {
   "data": [
     {
-      "question": "I ___ got a dog.\r\n",
+      "question": "I ___ got a dog.",
       "a": "have",
       "b": "has",
       "answer": "1",
-      "explain": "- I/we/you/they + have got\r\n",
+      "explain": "- I/we/you/they + have got",
       "category": "1",
       "subcategorylv1": "2",
       "subcategorylv2": "1",
       "type": "3"
     },
     {
-      "question": "__________ he have a son?",
+      "question": "_____ he have a son?",
       "a": "Does",
       "b": "has",
       "c": "do",
       "d": "have",
       "answer": "1",
-      "explain": "- Does + he/she/it + have got...?\r\n",
+      "explain": "- Does + he/she/it + have got...?",
       "category": "1",
       "subcategorylv1": "2",
       "subcategorylv2": "1",
       "type": "1"
     },
     {
-      "question": "__________ you have a present?\r\n",
+      "question": "_____ you have a present?",
       "a": "Does",
       "b": "has",
       "c": "do",
@@ -38,7 +38,7 @@
       "type": "1"
     },
     {
-      "question": "It ________ got a house.\n",
+      "question": "It _____ got a house.",
       "a": "have",
       "b": "has",
       "answer": "2",
@@ -49,7 +49,7 @@
       "type": "3"
     },
     {
-      "question": "We __________ got friends in Paris.\r\n",
+      "question": "We _____ got friends in Paris.",
       "a": "don't have",
       "b": "hasn't",
       "c": "doesn't have",
@@ -62,7 +62,7 @@
       "type": "1"
     },
     {
-      "question": "He ________ a cat\r\n",
+      "question": "He _____ a cat",
       "a": "have",
       "b": "has",
       "answer": "2",
@@ -73,7 +73,7 @@
       "type": "3"
     },
     {
-      "question": "She ________ a pet.\n",
+      "question": "She _____ a pet.",
       "a": "have",
       "b": "has",
       "answer": "2",
@@ -84,20 +84,20 @@
       "type": "3"
     },
     {
-      "question": "The lion __________ got brave friends.",
+      "question": "The lion _____ got brave friends.",
       "a": "don't have",
       "b": "hasn't",
       "c": "doesn't have",
       "d": "haven't",
       "answer": "2",
-      "explain": "- He/she/it + hasn't/has not + got...\r\n",
+      "explain": "- He/she/it + hasn't/has not + got...",
       "category": "1",
       "subcategorylv1": "2",
       "subcategorylv2": "1",
       "type": "1"
     },
     {
-      "question": "We __________ big bags.\r\n",
+      "question": "We _____ big bags.",
       "a": "don't have",
       "b": "hasn't",
       "c": "doesn't have",
@@ -110,7 +110,7 @@
       "type": "1"
     },
     {
-      "question": "__________ John have a car?\r\n",
+      "question": "_____ John have a car?",
       "a": "Does",
       "b": "has",
       "c": "do",

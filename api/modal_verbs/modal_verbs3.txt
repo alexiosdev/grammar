@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "Where's Nick? He ___ be in his office.",
+            "a": " might",
+            "b": " mustn't",
+            "c": " is to",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "Take an umbrell It ___ rain later.",
+            "a": " has to",
+            "b": " need",
+            "c": " might",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "Jack ___ go to hospital yesterday.",
+            "a": " must",
+            "b": " had to",
+            "c": " need",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "You look tire You ___ go to be",
+            "a": " should",
+            "b": " ought",
+            "c": " are to",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "You ___ do it. I have already done it.",
+            "a": " must not",
+            "b": " need not",
+            "c": " ought not",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "___ it be true?",
+            "a": " Must",
+            "b": " May",
+            "c": " Can",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "___ we stay or leave?",
+            "a": " Will",
+            "b": " Would",
+            "c": " Shall",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": "Jane was so tire She ___ have worked days and nights.",
+            "a": " should",
+            "b": " must",
+            "c": " need",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": " I  hope she ________ it.",
+            "a": "cans do",
+            "b": "can does",
+            "c": "can do",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        },
+        {
+            "question": " All students ________ the TOEFL.",
+            "a": "must take",
+            "b": "must taking",
+            "c": "must to take",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "3",
+            "type": "2"
+        }
+    ]
+}

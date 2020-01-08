@@ -1,5 +1,5 @@
 {
-  "data": [
+ "data": [
     {
       "question": "The film was about a man who was sent to prison for _____ crime he didn't commit.",
       "a": "a",
@@ -124,11 +124,11 @@
       "c": "the",
       "d": "-",
       "answer": "3",
-      "explain": "\n- Use \"the\": when you are about to make it clear which person or thing you mean\n",
+      "explain": "\n- Use \"the\": when you are about to make it clear which person or thing you mean",
       "category": "1",
       "subcategorylv1": "1",
       "subcategorylv2": "7",
       "type": "1"
     }
-  ]
+  ] 
 }

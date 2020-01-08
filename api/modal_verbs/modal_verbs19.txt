@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "I don't want to ask Tom about his exam. He _________ it.",
+            "a": "may not have passed",
+            "b": "shouldn't have passed",
+            "c": "needn't have passed",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "No one knows why the little boy ran into the busy road. He ___ to get an ice cream from the shop on the other side of the road.",
+            "a": "couldn't have been trying",
+            "b": "may have been trying",
+            "c": "needn't have been trying",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "I ___ on television next month. The TV company were filming our hospital today for a programme about young doctors.",
+            "a": "can be",
+            "b": "could be",
+            "c": "could have been",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "Jack took me to Paris for the weekend. He _________ me a better birthday present.",
+            "a": "couldn't have given",
+            "b": "can't have given",
+            "c": "couldn't give",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "If you _________ feel unwell after taking these tablets, contact your doctor immediately.",
+            "a": "might",
+            "b": "could",
+            "c": "should",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "I suggested Joe ___ an advertisement for his new shop in the local paper.",
+            "a": "to put",
+            "b": "should put",
+            "c": "putting",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "___ lock my bicycle to yours. It'll be safe then.",
+            "a": "I'd better to",
+            "b": "I'd better",
+            "c": "I needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "You look great in that red jumper. ___ wear red more often.",
+            "a": "You'd better",
+            "b": "You'd better to",
+            "c": "You should",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "Always bend your knees when you pick something up off the floor. Otherwise you _________ hurt your back.",
+            "a": "may",
+            "b": "should",
+            "c": "must",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        },
+        {
+            "question": "We _________ be able to get some cheap tickets to New York. It depends on when we want to travel.",
+            "a": "must",
+            "b": "would",
+            "c": "may",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "19",
+            "type": "2"
+        }
+    ]
+}

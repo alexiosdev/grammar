@@ -1,0 +1,94 @@
+{
+	"data": [
+    {
+      "question": "a day\n\n---> two ___",
+      "answer": "days",
+      "explain": "- day -> days\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a pig\n\n---> ten ___",
+      "answer": "pigs",
+      "explain": "- pig -> pigs",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a joy\n\n---> two ___",
+      "answer": "joys",
+      "explain": "- joy -> joys\nRemember: Nouns ending in y preceded by a vowel -> + s.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a lion\n\n---> seven ___",
+      "answer": "lions",
+      "explain": "- lion -> lions",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a church\n\n---> two ___",
+      "answer": "churches",
+      "explain": "- church -> churches\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a hen\n\n---> six ___",
+      "answer": "hens",
+      "explain": "- hen -> hens",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a pony \n\n---> three  ___ ",
+      "answer": "ponies",
+      "explain": "- pony -> ponies\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a fox \n\n---> nine ___ ",
+      "answer": "foxes",
+      "explain": "- fox -> foxes\nRemember: Nouns ending in s, z, x, sh, and ch -> + es.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "a woman \n\n---> ten ___ ",
+      "answer": "women",
+      "explain": "- woman -> women\n(irregular plural)",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    },
+    {
+      "question": "an injury\n\n---> eight ___",
+      "answer": "injuries",
+      "explain": "- injury -> injuries\nRemember: Nouns ending in - y preceded by a consonant -> changing - y to - ies.",
+      "category": "1",
+      "subcategorylv1": "4",
+      "subcategorylv2": "3",
+      "type": "4"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+	"data": [
+        {
+            "question": "If Robert listened to me more, he ___ understand me better.",
+            "a": "might",
+            "b": "may",
+            "c": "must",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "If you're a member of the sports centre, you ___ pay to use the tennis courts. They're free to members.",
+            "a": "can't",
+            "b": "mustn't",
+            "c": "don't have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "I was ill last week so I ___ stay in bed for a few days.",
+            "a": "had to",
+            "b": "must",
+            "c": "should",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "___ wear some good boots when you go out. It's very icy.",
+            "a": "You would",
+            "b": "You'd better",
+            "c": "You needn't",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "People ___ throw plastic bags into the sea. They're dangerous for birds and fish.",
+            "a": "had better not",
+            "b": "had better not to",
+            "c": "shouldn't",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "It ___ be lovely to have a fan in the sitting room. It gets very hot in there sometimes. Shall we get one?",
+            "a": "must",
+            "b": "could",
+            "c": "would",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "When we were children we _________ ride our bicycles very fast down a steep hill on the way home from school.",
+            "a": "must",
+            "b": "may",
+            "c": "would",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "If you're a member of the sports centre, you ___ pay to use the tennis courts. They're free to members.",
+            "a": "can't",
+            "b": "mustn't",
+            "c": "don't have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "Ben _________ walk to work. He could get the bus, but he walks because he likes the exercise.",
+            "a": "doesn't have to",
+            "b": "mustn't",
+            "c": "can't",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        },
+        {
+            "question": "___ know a lot about animals for this job?",
+            "a": "Are you able to",
+            "b": "Could you",
+            "c": "Do you have to",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "17",
+            "type": "2"
+        }
+    ]
+}

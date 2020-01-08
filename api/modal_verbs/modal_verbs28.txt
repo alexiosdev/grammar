@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+            "question": " It ________ rain this evening. Why don't you take an umbrella?",
+            "a": "could be        ",
+            "b": "must ",
+            "c": "might ",
+            "d": "had better",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " ________ you help me with the homework?",
+            "a": "May ",
+            "b": "Shall ",
+            "c": "Should        ",
+            "d": "Will",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " She hasn't eaten anything since yesterday. She ________ be really hungry.",
+            "a": "might ",
+            "b": "will ",
+            "c": "must ",
+            "d": "can",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " I put my keys on the table, but now it's gone. Someone ________ have taken it.",
+            "a": "may ",
+            "b": "had to ",
+            "c": "should        ",
+            "d": "would rather",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " Daisy is reading her English test because she has a test tomorrow. She ________ be studying.",
+            "a": "will ",
+            "b": "should        ",
+            "c": "must ",
+            "d": "can",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " We ________ put the fish in the fridge before it spoils.",
+            "a": "had to ",
+            "b": "may ",
+            "c": "can ",
+            "d": "had better",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " Mr. Brown is very rich. He ________ work hard for a living.",
+            "a": "mustn't        ",
+            "b": "shouldn't     ",
+            "c": "can't       ",
+            "d": "doesn't have to",
+            "answer": "4",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " Tom has just got a new job. He ________ be very pleased.",
+            "a": "might ",
+            "b": "must ",
+            "c": "should        ",
+            "d": "will",
+            "answer": "2",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " Tom panted his room black. It looks dark and dreary. He ________  have chosen another colour.",
+            "a": "should ",
+            "b": "must ",
+            "c": "could ",
+            "d": "may",
+            "answer": "1",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        },
+        {
+            "question": " ________ you carry this bag for me?",
+            "a": "May ",
+            "b": "Should        ",
+            "c": "Will ",
+            "d": "Shall",
+            "answer": "3",
+            "category": "1",
+            "subcategorylv1": "45",
+            "subcategorylv2": "28",
+            "type": "1"
+        }
+    ]
+}
