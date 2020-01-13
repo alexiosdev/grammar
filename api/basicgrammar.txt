@@ -270,7 +270,7 @@
       "subname": "Passive Voice Test",
       "subid": "passive_voice",
       "urlfull": "56_passive_voice",
-      "subcat": "6",
+      "subcat": "4",
       "introduction": "passive_voice.html"
     },
     {
