@@ -333,10 +333,10 @@
     },
     {
       "id": "65",
-      "url": "subject_and_verb_agreement",
+      "url": "subject_verb_agreement",
       "name": "Subject and Verb Agreement",
       "subname": "Subject and Verb Agreement Test",
-      "subid": "subject_and_verb_agreement",
+      "subid": "subject_verb_agreement",
       "urlfull": "65_subject_and_verb_agreement",
       "subcat": "5"
     },
@@ -370,10 +370,10 @@
     },
     {
       "id": "72",
-      "url": "regular_and_irregular_verbs",
+      "url": "regular_irregular_verbs",
       "name": "Regular and Irregular Verbs",
       "subname": "Regular and Irregular Verbs Test",
-      "subid": "regular_and_irregular_verbs",
+      "subid": "regular_irregular_verbs",
       "urlfull": "72_regular_and_irregular_verbs",
       "subcat": "4",
       "introduction": "regular_and_irregular_verbs.html"
