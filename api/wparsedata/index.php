@@ -5,7 +5,7 @@
 // }
 
 
-$categoryName = "learn_vs_study";
+$categoryName = "question_tag";
 $data = file_get_contents ("./test.json");
         $json = json_decode($data, true);
         // var_dump($json["articles5"]);
