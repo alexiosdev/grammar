@@ -1,4 +1,5 @@
 {
+"adsInterval" : 10,
     "data": [
         {
             "id": "1",

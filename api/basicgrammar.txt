@@ -1,4 +1,5 @@
 {
+  "adsInterval" : 10,
   "data": [
     {
       "id": "1",
@@ -279,7 +280,7 @@
       "subname": "Phrasal verbs Test",
       "subid": "phrasal_verbs",
       "urlfull": "57_phrasal_verbs",
-      "subcat": "70",
+      "subcat": "69",
       "introduction": "phrasal_verbs.html"
     },
     {
