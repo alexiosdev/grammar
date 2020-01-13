@@ -207,11 +207,11 @@
     },
     {
       "id": "49",
-      "url": "relative_pronoun",
-      "name": "Relative Pronoun",
-      "subname": "Relative Pronoun Test",
-      "subid": "relative_pronoun",
-      "urlfull": "49_relative_pronoun",
+      "url": "relative_pronouns",
+      "name": "Relative Pronouns",
+      "subname": "Relative Pronouns Test",
+      "subid": "relative_pronouns",
+      "urlfull": "49_relative_pronouns",
       "subcat": "8",
       "introduction": "relative_pronoun.html"
     },
