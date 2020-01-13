@@ -226,10 +226,10 @@
     },
     {
       "id": "51",
-      "url": "must_have_to",
+      "url": "must_haveto",
       "name": "Must / Have to",
       "subname": "Must / Have to Test",
-      "subid": "must_have_to",
+      "subid": "must_haveto",
       "urlfull": "51_must_have_to",
       "subcat": "8",
       "introduction": "must_have_to.html"
