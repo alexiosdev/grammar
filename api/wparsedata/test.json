@@ -1,330 +1,385 @@
 {
-    "passive_voice1": [
+    "present_perfect1": [
         {
-            "question": "Frank Robinson gave the name Coca Cola to the drink.-> The name Coca Cola .................... to the drink by Frank Robinson.\n",
-            "answer": "was given",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____(ask) him to dinner several times.",
+            "a": "have asked",
+            "b": "has asked",
+            "answer": "1",
+            "explain": "- We use the present perfect to say how many times for completed actions\n- I have asked....",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "7"
         },
         {
-            "question": "People eat thirty-five million hamburgers every day.     ->Thirty-five million hamburgers .....................every day.\n",
-            "answer": "are eaten",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "You _____ (not make) a mistake?\nNo, I'm sure I _____",
+            "a": "haven't you made/haven't",
+            "b": "have you made/haven't",
+            "c": "haven't you made/hasn't",
+            "answer": "1",
+            "explain": "- The question form: Have/ has + S + past participle...?\n- The negative form: I have + not + past participle",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "6"
         },
         {
-            "question": "Previously women thought tobacco smelly.     -> Tobacco ........................... smelly by women.\n",
-            "answer": "was previously thought",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____ (buy) a new carpet. Come and look at it.",
+            "a": "has bought",
+            "b": "have bought",
+            "c": "have buyed",
+            "d": "has buyed",
+            "answer": "2",
+            "explain": "- We use the present perfect for recent happenings\n- I have bought....",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Industrial revolution helped to develop new technologies.     -> New technologies ............................... to develop by industrial revolution.\n",
-            "answer": "were helped",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "You _____ (explain) the exercise?\nYes, I _____.",
+            "a": "has you explained/have",
+            "b": "have you explained/have",
+            "c": "has you explained/has",
+            "d": "have you explained/has",
+            "answer": "2",
+            "explain": "- The question form: Have/has + S + past participle?\n- I have",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Most young people like chewing gum.     -> Chewing gum ......................... by most young people.\n",
-            "answer": "is liked",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____ (not finish) my letter yet.",
+            "a": "haven't finished",
+            "b": "hasn't finished",
+            "answer": "1",
+            "explain": "- Negative: I/we/you/they + haven't/have not + p.p\n- Finish -> finished.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "7"
         },
         {
-            "question": "Where did they invent gun-powder?     -> Where .......................... gun-powder invented?\n",
-            "answer": "was",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I just _____ (wash) that floor.",
+            "a": "have just washed",
+            "b": "has just washed",
+            "answer": "1",
+            "explain": "- We use the present perfect to say that something has happened\n- I just have washed ...",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "7"
         },
         {
-            "question": "How do you make this delicious meal?     -> How ..................................this delicious meal made?\n",
-            "answer": "is",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "............You ever _____ (ride) a camel?",
+            "a": "has you ever ridden",
+            "b": "have you ever ridden",
+            "c": "have you ever rided",
+            "d": "has you ever rided",
+            "answer": "2",
+            "explain": "- The question form: Have/has + S + past participle?\n- Ride -> ridden.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Why does he water these plants so rarely?     -> Why .................................. so rarely?\n",
-            "answer": "are these plants watered",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____ (not pay) the telephone bill yet.",
+            "a": "haven't paid",
+            "b": "hasn't paid",
+            "answer": "1",
+            "explain": "- Negative: I/we/you/they + haven't/have not + p.p\n- Pay -> paid.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "7"
         },
         {
-            "question": "Producers sell about 1.2 billion gallons of Sprite every day.     -> About 1.2 billion gallons of Sprite ...................... every day.\n",
-            "answer": "is sold",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "How many bottles the milkman _____ (leave)?\nHe _____ (leave) six.",
+            "a": "has the milkman left/has left",
+            "b": "have the milkman left/have left",
+            "answer": "1",
+            "explain": "- The question form: Has/have + S + past participle...?\n- Leave -> left.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "7"
         },
         {
-            "question": "The police didn't find the missing girl last weekend.     -> The missing girl .......................... last week by the police\n",
-            "answer": "wasn't found",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "He just _____ (go) out.",
+            "a": "has just gone",
+            "b": "have just gone",
+            "c": "has just goed",
+            "d": "have just goed",
+            "answer": "1",
+            "explain": "- We use the present perfect with just for new happenings\n- Go -> gone.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "1",
-            "type": "4"
+            "type": "5"
         }
     ],
-    "passive_voice2": [
+    "present_perfect2": [
         {
-            "question": "A passer-by caught the shoplifter and took him to the local police station.     -> The shoplifter .................... by a passer-by and taken to the local police station.\n",
-            "answer": "was caught",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "You _____ (have) enough to eat?\nYes, I _____ (have) plenty, thank you.",
+            "a": "have you had/have had",
+            "b": "have you haved/have haved",
+            "c": "has you haved/has haved",
+            "d": "has you had/have had",
+            "answer": "1",
+            "explain": "- The question form: Have/has + S + past participle...?\n- I have had...",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "The hotel management requests the guests to leave the rooms by midday.     -> The guests ....................... to leave the rooms by midday.\n",
-            "answer": "are requested",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "You _____ (dive) from the ten-metre board yet?\nNo, I _____",
+            "a": "has you dived/haven't",
+            "b": "have you dived/haven't",
+            "c": "have you dived/hasn't",
+            "d": "has you dived/hasn't",
+            "answer": "2",
+            "explain": "- The question form: Have/ has + S + past participle...?",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Where did they hide all the sports equipment?     -> Where ......................... all the sports equipment hidden?\n",
-            "answer": "was",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "Someone _____ (wind) the clock?\nYes, Tom _____.",
+            "a": "has someone wound/has",
+            "b": "have someone wound/has",
+            "c": "have someone wound/have",
+            "d": "has someone wound/have",
+            "answer": "1",
+            "explain": "- The question form: Have/ has + S + past participle...?",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Tourists don't visit this museum very often.     -> This museum ......................... very often by tourists.\n",
-            "answer": "isn't visited",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "Mary _____ (water) the tomatoes?\nYes, I think she _____.",
+            "a": "have Mary watered/has",
+            "b": "has Mary watered/has",
+            "c": "has Mary watered/have",
+            "d": "have Mary watered/have",
+            "answer": "2",
+            "explain": "- The question form: Have/has + S + past participle...?",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "How often does he re-install his computer?How often is his computer.........................?\n",
-            "answer": "re-installed",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "The post _____ (come)?\nYes, it _____.",
+            "a": "has the post come/has",
+            "b": "have the post come/has",
+            "c": "has the post come/have",
+            "d": "have the post come/have",
+            "answer": "1",
+            "explain": "- The question form: Have/has + S + past participle...?\n- Come -> come (irregular verb)",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "In the first stage of the process they roast and grind coffee beans.     -> Coffee beans ........................ in the first stage of the process.\n",
-            "answer": "are roasted and ground",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "How long you _____ (know) Mr Pitt?\nI _____ (know) him for ten years.",
+            "a": "have you knowed/have knowed",
+            "b": "have you known/has known",
+            "c": "have you known/have known",
+            "d": "have you knowed/has knowed",
+            "answer": "3",
+            "explain": "- We use the present perfect to say how long for an activity that happened in the past, and continues now (for ten years)",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "The Polish archaeologists were the first to excavate and describe this temple.     -> This temple ....................... by the Polish archaeologists.\n",
-            "answer": "was first excavated and described",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "Would you like some coffee?\nI just _____ (make) some.",
+            "a": "have just made",
+            "b": "have just maked",
+            "c": "has just made",
+            "d": "has just maked",
+            "answer": "1",
+            "explain": "- We use the present perfect for recent happenings with just",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "The professor reminded the students about the due-date for handing essays.     -> The students ....................... about the due-date for handing essays.\n",
-            "answer": "were reminded",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "You _____ (see) my watch anywhere?\nNo, I'm afraid I _____.",
+            "a": "have you seen/haven't",
+            "b": "have you seed/haven't",
+            "c": "have you seen/hasn't",
+            "d": "has you seen/haven't",
+            "answer": "1",
+            "explain": "- The question form: Have/has + S + past participle...?\n- See -> seen (irregular verb)",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "People speak English all over the world.     -> English ........................... all over the world.\n",
-            "answer": "is spoken",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "There aren't any buses because the drivers _____ (go) on strike.",
+            "a": "has gone",
+            "b": "have gone",
+            "c": "have goed",
+            "d": "has goed",
+            "answer": "2",
+            "explain": "- We use the present perfect when there is a connection with now, an action in the past and has a result now.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "They do not permit smoking in the auditorium.     -> Smoking ........................... in auditorium.\n",
-            "answer": "isn't permitted",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____ (live) here for ten years.",
+            "a": "have lived",
+            "b": "has lived",
+            "answer": "1",
+            "explain": "- We use the present perfect to say how long for an activity that happened in the past, continues now\n- I has lived....",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "2",
-            "type": "4"
+            "type": "7"
         }
     ],
-    "passive_voice3": [
+    "present_perfect3": [
         {
-            "question": "Did they deliver your goods safely?     -> Were your goods ................ safely?\n",
-            "answer": "delivered",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "He _____ yet.",
+            "a": "don't finish",
+            "b": "didn't finish",
+            "c": "doesn't finish",
+            "d": "hasn't finished",
+            "answer": "4",
+            "explain": "- Negative: he/she/it + hasn't/has not + p.p\n- Finish -> finished.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "People didn't forget his brave deeds.     -> His brave deeds ..................... forgotten.\n",
-            "answer": "were not",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I _____ to the gym for months.",
+            "a": "haven't be",
+            "b": "haven't been",
+            "c": "didn't be",
+            "d": "don't be",
+            "answer": "2",
+            "explain": "- We use the present perfect to say how long for an activity that happened in the past, and still continues now",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "I could see nobody slept in this bed last night.     -> This bed ........................ in last night.\n",
-            "answer": "wasn't slept",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "Have you ever driven a car? No, I've never _____ one.",
+            "a": "drive",
+            "b": "driven",
+            "c": "drove",
+            "d": "driving",
+            "answer": "2",
+            "explain": "- Drive -> driven (irregular verb)",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Did you hear that robbers broke into their house last weekend?     -> Did you hear that their house ..................... into last weekend?\n",
-            "answer": "was broken",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "What _____ doing lately?",
+            "a": "have you been",
+            "b": "you have been",
+            "c": "are you",
+            "d": "you are",
+            "answer": "1",
+            "explain": "- The question form: Wh...+ have/has + been + S + V-ing...? (the present perfect continuous)\n- Be -> been.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Fortunately, they didn't pull down this old theatre.     -> Fortunately, this old theatre ...................... down.\n",
-            "answer": "was not pulled",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "\"Where's Carol?\" - \" She _____ to church.\"",
+            "a": "has been",
+            "b": "is gone",
+            "c": "has gone",
+            "d": "is going",
+            "answer": "3",
+            "explain": "- Affirmative: He/she/it + has + p.p\n- Go -> gone.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "Everybody knows it now that the Earth goes round the Sun.     -> It ............................ by everybody that Earth goes round the Sun.\n",
-            "answer": "is now known",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "I have never been _____ Portugal.",
+            "a": "to",
+            "b": "at",
+            "c": "in",
+            "d": "on",
+            "answer": "1",
+            "explain": "- Have/has never been to somewhere (the present perfect)",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "When did Mr Ramsey translate this book into English?     -> When ......................... into English by Mr Ramsay?\n",
-            "answer": "was this book translated",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "We _____ the tickets.",
+            "a": "are just buying",
+            "b": "just bought",
+            "c": "have just bought",
+            "d": "are already bought",
+            "answer": "3",
+            "explain": "- We use the present perfect for new happenings\n- Buy -> bought.",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "The government lifted some of the restrictions last year.     -> Some of the restrictions ........................ by the government last year.\n",
-            "answer": "were lifted",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "How many times _____ to the USA?",
+            "a": "have you been",
+            "b": "you have been",
+            "c": "have you gone",
+            "d": "you have gone",
+            "answer": "1",
+            "explain": "- We use the present perfect continuous to say how many times for an completed actions ",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "People in our country know Mrs J.K.Rowling's books very well.     -> Mrs J.K.Rowling's books ................. in our country.\n",
-            "answer": "are very well known",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "How many times _____ to the USA?",
+            "a": "have you been",
+            "b": "you have been",
+            "c": "have you gone",
+            "d": "you have gone",
+            "answer": "1",
+            "explain": "- We use the present perfect continuous to say how many times for an completed actions ",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
+            "type": "5"
         },
         {
-            "question": "They allow the pupils to speak their language only during Polish lessons.     -> The pupils ....................... to speak their language only during Polish lessons.\n",
-            "answer": "are allowed",
-            "category": "1",
-            "subcategorylv1": "56",
+            "question": "Who ________ written this article?",
+            "a": "have",
+            "b": "had",
+            "c": "has",
+            "d": "having",
+            "answer": "3",
+            "explain": "- The question form: Wh...+ have/has + S + pat participle...?",
+            "category": "2",
+            "subcategorylv1": "5",
             "subcategorylv2": "3",
-            "type": "4"
-        }
-    ],
-    "passive_voice4": [
-        {
-            "question": "They never help their mother with the housework.     -> Their mother ...................... with the housework.\n",
-            "answer": "is never helped",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "The Robinsons keep their huge Rottweiler dogs in the garden.     -> Huge Rottweiler dogs............................ by the Robinsons in the garden.\n",
-            "answer": "are kept",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "Who won this match?     -> Who ...................... this match won by?\n",
-            "answer": "was",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "This company sell their products all over the world.     -> This company's products ........................ all over the world.\n",
-            "answer": "are sold",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "A Dutch scientist built the first pendulum clocks in 1656.     -> The first pendulum clocks ....................... in 1656 by a Dutch scientist.\n",
-            "answer": "were built",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "Maintenance engineers check regularly all the equipments.     -> All the equipments .................. regularly by maintenance engineers.\n",
-            "answer": "are checked",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "They awarded Mother Teresa the Nobel Peace Prize in 1979.     -> Mother Teresa ................. the Nobel Peace Prize in 1979.\n",
-            "answer": "was awarded",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "Women fans send thousands of letters to Antonio Banderas every month.     -> Thousands of letters ................ to Antonio Banderas every month.\n",
-            "answer": "are sent",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "His elder brother taught him how to ride a bike.     -> He ............................ how to ride a bike by his elder brother.\n",
-            "answer": "was taught",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
-        },
-        {
-            "question": "The mechanic didn't repair my car on time.     -> My car ....................... on time by the mechanic.\n",
-            "answer": "wasn't repaired",
-            "category": "1",
-            "subcategorylv1": "56",
-            "subcategorylv2": "4",
-            "type": "4"
+            "type": "5"
         }
     ]
 }
